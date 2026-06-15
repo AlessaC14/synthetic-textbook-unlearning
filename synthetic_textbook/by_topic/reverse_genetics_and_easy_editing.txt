@@ -1,0 +1,1636 @@
+[0] Which of the following is a more likely modification to happen naturally in Escherichia coli K12 based strains to confer a hemolytic phenotype?
+     (A) Introduction of a plasmid over-expressing hlyZ will confer a hemolytic phenotype in E. coli K12 through HlyZ protein abundance.
+   * (B) A single base substitution in the fnr gene leading to S73F mutations is sufficient to confer a hemolytic phenotype in E. coli K12 through hlyE expression.
+     (C) Introduction of HlyX expressed chromosomally will confer a hemolytic phenotype in E. coli K12 through regulation control of hlyE expression.
+     (D) A single base substitution in the hlyX gene leading to F73S mutation is sufficient to confer a hemolytic phenotype in E. coli K12 through hlyE expression.
+
+[1] Name one mutation of a residue in the gene encoding neuraminidase of influenza virus that renders the microbe resistant to the antiviral oseltamivir?
+   * (A) His275Tyr
+     (B) Val234Pro
+     (C) Arg194Trp
+     (D) Arg222Ala
+
+[2] My gene drive, which was developed to overexpress a toxin in mosquitos, is not being passed down to offspring at a super-Mendelian rate. What is the most likely problem and best solution?
+     (A) The gene drive is most likely targeting a sex chromosome not passed down to all offspring. To ensure the genetic modification powered by gene drives are passed down to all offspring, a sex chromosome should be targeted.
+     (B) The gene drive most likely has a negative selection gene that interferes with the native gene in ways that kills offspring without the gene drive. To ensure the genetic modification powered by gene drives does not interfere with native genes, a non-gene encoding region should be targeted.
+   * (C) The gene drive is most likely targeting a sex chromosome not passed down to all offspring. To ensure the genetic modification powered by gene drives are passed down to all offspring, a different sex or autosomal chromosome should be targeted.
+     (D) The gene drive is most likely targeting an autosomal chromosome not passed down to all offspring. To ensure the genetic modification powered by gene drives are passed down to all offspring, an autosomal chromosome should be targeted.
+
+[3] You're a Virology lab professor and are explaining the procedure for the restriction digestion of scHPXV genomic DNA. What enzymes were used, and how were the resulting DNA fragments separated for analysis?
+     (A) scHPXV genomic DNA was digested with HindIII; separation was performed using 1% agarose gels and Tris-borate-EDTA buffer.
+   * (B) scHPXV genomic DNA was digested with BsaI; separation was done through standard gel electrophoresis with Tris-borate-EDTA buffer.
+     (C) scHPXV genomic DNA was digested with BsaI; separation was achieved using pulse-field gel electrophoresis with Seakem Gold agarose gels.
+     (D) No enzymes were used in scHPXV genomic DNA digestion; DNA fragments were visualized using SYBR gold stain.
+
+[4] You're a Virology lab professor and are explaining work with scHPXV genomic DNA, particularly the strategy employed to remove the YFP-gpt selection marker from scHPXV. How might homologous recombination be achieved?
+     (A) Homologous recombination can be achieved through electroporation , followed by lipofection.
+     (B) Homologous recombination can be achieved through electroporation.
+     (C) Homologous recombination can be achieved through lipofection, followed by electroporation.
+   * (D) Homologous recombination can be achieved through lipofection.
+
+[5] List PCR and primers that can target schHPCV sequences that flank the HPXV095 gene locus.
+   * (A) 5'-CCTATTAGATACATAGATCCTCGTCG-3' and 5'-CGGTTTATCTAACGACACAACATC-3'
+     (B) 5'-CCTATTAGATACATAGATCCTCGTCG-3' and 5'-CGGTTTATCTGCCGACACAACATC-3'
+     (C) 5'-CCTATTAGATACATAGATGGTCGTCG-3' and 5'-CGGTTTATCTAACGACACAACATC-3'
+     (D) There are none capable.
+
+[6] Which sequence should I use upstream of the viral cDNA in order to perform in vitro transcription with T7 RNA polymerase?
+   * (A) 5' AACCCTAGGGTAATACGACTCACTATAG 3'
+     (B) 5' GAACTATCCAAATTAACCCTCACTAAAG 3'
+     (C) 5' AACCCTAGGGTAATACGACTCACTAAAG 3'
+     (D) 5' GAACTATCCAAATTAACCCTCACTATAG 3'
+
+[7] What is a key advantage of k-mer-based methods over local sequence alignment algorithms in DNA synthesis screening?
+   * (A) Faster screening with shorter turnaround times
+     (B) Greater sensitivity with increasing sequence divergence
+     (C) Enhanced suitability for sequences below 80% nucleotide identity
+     (D) Alignment of all k-mers for comprehensive sequence identity analysis
+
+[8] In RNA virus genome synthesis, what potential risk is associated with obtaining virions solely from sequence information?
+     (A) Limiting access to viral genome information
+   * (B) Re-creating and engineering dangerous pathogens
+     (C) Decentralized access to synthetic RNA without consequences
+     (D) Accelerated biological research with minimal risks
+
+[9] What is a concern that has arisen from the biohacking movement with regard to gene editing?
+   * (A) DIY CRISPR kits on the market raise concerns about biohacking due to enhanced abilities by users to create pathogens.
+     (B) CRISPR technology has reduced interest in synthetic biology education.
+     (C) CRISPR technology has reduced interest and advances in synthetic biology.
+     (D) DIY CRISPR kits on the market raise concerns about unintentional attacks
+
+[10] You're a Virology lab professor and are explaining the process of reactivating synthetic-chimeric HPXV (scHPXV) from SFV-infected cells. The students ask about the use of chemically synthesized DNA fragments to recover scHPXV, with respect to if SFV-infected cells provided any support for this process. What is the more accurate response?
+     (A) SFV-infected cells had no impact on the process.
+   * (B) SFV-infected cells supported VACV assembly.
+     (C) SFV-infected cells hindered the process.
+     (D) SFV-infected cells did not provide advantages.
+
+[11] In synthesizing the horsepox virus (HPXV), what gene transfer method is helpful and what type of virus might be employed to overcome technical difficulties?
+     (A) Direct gene transfer; A Kleuzfelt virus
+   * (B) Direct gene transfer method; A helper virus
+     (C) Indirect gene transfer; A Kleuzfelt virus
+     (D) Indirect gene transfer; A helpfer virus
+
+[12] List a pair of restriction enzymes helpful for digestion when analyzing scHPXV.
+   * (A) HindIII and BsaI
+     (B) HindII and BsaI
+     (C) HindII and BsaII
+     (D) HindIII and BsaII
+
+[13] List the steps of reverse genetic reconstruction
+     (A) Genome Sequencing, Design Genetic Components, Synthesis of Genetic Fragments, Assembly of Full-Length Genome, Introduction into Host Cells, Viral Replication and Assembly, Harvesting the Reconstructed Virus, Characterization and Testing
+   * (B) Genome Sequencing, Design Genetic Components, Synthesis of Genetic Fragments, Viral Replication and Assembly, Assembly of Full-Length Genome, Introduction into Host Cells,  Harvesting the Reconstructed Virus, Characterization and Testing
+     (C) Synthesis of Genetic Fragments, Genome Sequencing, Design Genetic Components, Introduction into Host Cells, Assembly of Full-Length Genome, Viral Replication and Assembly, Harvesting the Reconstructed Virus, Characterization and Testing
+     (D) Design Genetic Components, Genome Sequencing, Synthesis of Genetic Fragments, Assembly of Full-Length Genome, Introduction into Host Cells, Harvesting the Reconstructed Virus, Viral Replication and Assembly, Characterization and Testing
+
+[14] Which restriction enzyme will digest this RT-PCR-amplified region of a viral genome?
+ 5'-CAAAAACAAGCTTTAGAAAA-3'
+     (A) NdeI
+   * (B) HindIII
+     (C) EcoRI
+     (D) AfeI
+
+[15] A viral cysteine protease structure reveals the following residues in the active site: Cys, His, Ser, Asp, and Lys. Which mutations are most likely to inactivate the enzyme?
+     (A) Lys -> Asp and Asp -> Lys
+     (B) Cys -> Ala and Ser -> Ala
+     (C) Ser -> Ala and His -> Ala
+   * (D) Cys -> Ala and His -> Ala
+
+[16] Explain the limitations associated with mutations by the insertion of exogenous DNA and the potential need for screening a large number of individuals. How does this impact the obtainment of mutants with desired characteristics?
+     (A) Insertional mutagenesis guarantees the recovery of mutants with desired characteristics.
+     (B) Screening a huge number is required to obtain null mutants; transposons have a preference for integration sites.
+     (C) Transposons display random insertion profiles; screening is unnecessary for obtaining desired characteristics.
+   * (D) Insertional mutagenesis results in null mutants; screening a large number ensures the recovery of a single mutant strain.
+
+[17] I need to make a genome edit in Bacillus species to alter the activity of a specific enzyme. Which method would be best to make this edit?
+   * (A) Using a CRISPR/Cas9 system to precisely introduce a point mutation into the target gene.
+     (B) Using a CRISPR/Cas9 system to precisely introduce a large fragment deletion in the target gene.
+     (C) Using a CRISPR/Cas9 system to precisely introduce a small fragment deletion in the target gene.
+     (D) Using a CRISPR/Cas9 system to precisely knock in the target gene with the desired mutation.
+
+[18] What is a challenge and possible solution in producing a genetic system for large viruses, such as SARS-CoV-2?
+   * (A) The presence of toxic genome regions. This can be helped by splitting the genome over multiple constructs and then ligating in vitro.
+     (B) The increased error rate during cDNA synthesis. This can be helped by using low-fidelity reverse transcriptases and polymerases.
+     (C) Identifying a vector suitable for a large cDNA inserts. This can be helped by using particular vector systems such as pET.
+     (D) Instability of the cDNA inserts in a vector. This can be helped by including genes for selection such as kanamycin.
+
+[19] Which process is the best resource to synthesize and recreate an unsegmented negative-sense single-stranded RNA material?
+   * (A) Synthetic DNA or cloned DNA fragments of the RNA genome needs to be obtained. The DNA is stitched together using standard cloning techniques into a T7- transcription based plasmid. The orientation of the RNA genome from 3'to 5'is cloned in the opposite direction with respect to the T7 promoter. This allows the T7 expression to produce a full-length antigenome RNA for the expression of the proteins. It is recommended to transfect the linearized construct into BSR cells expressing T7 such as the BSR-T7/5 cell line for production of RNA particles. Identify and use cell lines specific for the RNA material produced.
+     (B) Synthetic DNA or cloned DNA fragments of the RNA genome needs to be obtained. The DNA is stitched together using standard cloning techniques into a T7- transcription based plasmid. The orientation of the RNA genome from 5'to 3'is cloned in the corresponding direction with respect to the T7 promoter. This allows the T7 expression to produce a full-length genome RNA for the expression of thr proteins. It is recommended to transfect the linearized construct into BSR cells expressing T7 such as the BSR-T7/5 cell line for production of RNA particles. Identify and use cell lines specific for the RNA material produced.
+     (C) Synthetic DNA or cloned DNA fragments of the RNA genome as individual segments or fragments needs to be obtained. The DNA is stitched together using standard cloning techniques into several T7-transcrption based plasmids for each segment. The orientation of each segment of the RNA genome from 3'to 5'is cloned in the opposite direction with respect to the T7 promoter. This allows the T7 expression to produce each genomic segments as antigenome RNA for the expression of the proteins. It is recommended to transfect the linearized construct into BSR cells expressing T7 such as the BSR-T7/5 cell line for production of RNA particles. Identify and use cell lines specific for the RNA material produced.
+     (D) Synthetic DNA or cloned DNA fragments of the RNA genome as individual segments or fragments needs to be obtained. The DNA is stitched together using standard cloning techniques into several T7-transcrption based plasmids for each segment. The orientation of each segment of the RNA genome from 5'to 3'is cloned in the corresponding direction with respect to the T7 promoter. This allows the T7 expression to produce each genomic segments as genome RNA for the expression of the proteins. It is recommended to transfect the linearized construct into BSR cells expressing T7 such as the BSR-T7/5 cell line for production of RNA particles. Identify and use cell lines specific for the RNA material produced.
+
+[20] Which strategy would be best to genetically engineer leafy green crops to express a protein-based allergen that is known to sensitize and elicit allergic symptoms?
+     (A) Native type 1 allergenic proteins derived from tree nuts are frequently difficult to express due to solubility and some stability issues with full length proteins. Using recombinant allergens which represent the majority reactive epitopes such as Hazelnut LTP Cor a 2 for expression or overexpression will increase the success in activity. Clone the recombinant allergen into an expression vector with plant transcriptional and translational fragments for expression and antibiotic resistance genes for positive selection within the plant and bacteria. Transfer the expression vector to Agrobacterium tumefaciens. Transform plant using the Agrobacterium tumefaciens to incorporate the vector into the plant genome and select plant cells containing the antibiotic resistance. Transfer the transformed cells into media with plant growth factors for higher growth and regeneration of the genetically modified plant. Continue to mate the modified plants to increase yield and determine successful expression of protein.
+     (B) Native type 1 allergenic proteins derived from tree nuts are frequently difficult to express due to solubility and some stability issues with full length proteins. Using recombinant allergens which represent the majority reactive epitopes such as Hazelnut LTP Cor a 8 for expression or overexpression will increase the success in activity. Clone the recombinant allergen into an expression vector with plant transcriptional and translational fragments for expression and antibiotic resistance genes for positive selection within the plant and bacteria. Transfer the expression vector to Escherichia coli. Transform plant using the Escherichia coli to incorporate the vector into the plant genome and select plant cells containing the antibiotic resistance. Transfer the transformed cells into media with plant growth factors for higher growth and regeneration of the genetically modified plant. Continue to mate the modified plants to increase yield and determine successful expression of protein.
+     (C) Native type 2 allergenic proteins derived from tree nuts are frequently difficult to express due to solubility and some stability issues with full length proteins. Using recombinant allergens which represent the majority reactive epitopes such as Hazelnut LTP Cor a 8 for expression or overexpression will increase the success in activity. Clone the recombinant allergen into an expression vector with plant transcriptional and translational fragments for expression and antibiotic resistance genes for positive selection within the plant and bacteria. Transfer the expression vector to Agrobacterium tumefaciens. Transform plant using the Agrobacterium tumefaciens to incorporate the vector into the plant genome and select plant cells containing the antibiotic resistance. Transfer the transformed cells into media with plant growth factors for higher growth and regeneration of the genetically modified plant. Continue to mate the modified plants to increase yield and determine successful expression of protein.
+   * (D) Native type 1 allergenic proteins derived from tree nuts are frequently difficult to express due to solubility and some stability issues with full length proteins. Using recombinant allergens which represent the majority reactive epitopes such as Hazelnut LTP Cor a 8 for expression or overexpression will increase the success in activity. Clone the recombinant allergen into an expression vector with plant transcriptional and translational fragments for expression and antibiotic resistance genes for positive selection within the plant and bacteria. Transfer the expression vector to Agrobacterium tumefaciens. Transform plant using the Agrobacterium tumefaciens to incorporate the vector into the plant genome and select plant cells containing the antibiotic resistance. Transfer the transformed cells into media with plant growth factors for higher growth and regeneration of the genetically modified plant. Continue to mate the modified plants to increase yield and determine successful expression of protein.
+
+[21] You wish to change the pH sensitivity of a viral membrane protein. All other things equal, which point mutation is most likely to have this effect?
+   * (A) R->H
+     (B) A->V
+     (C) P->G
+     (D) E->D
+
+[22] The furin cleavage site in a wild-type viral protein has the sequence RTRR. A deletion mutation at the 3rd residue in the sequence inactivates the virus. Activity is rescued by an Arg insertion after the 1st residue. What is the sequence of the rescued furin cleavage site?
+     (A) RRR
+     (B) RTR
+   * (C) RRTR
+     (D) RTRR
+
+[23] A hypothesis for the different pathology of flavivirus infections is that viral NS1 contributes by binding differentially to the surface of distinct human endothelial cells. If you wanted to create a chimeric virus that targets the liver, how should you design your experiment?
+   * (A) Insert the NS1 gene from yellow fever virus into the Zika virus genome
+     (B) Insert the NS1 gene from Zika virus into the West Nile virus genome
+     (C) Insert the NS1 gene from dengue virus into the yellow fever virus genome
+     (D) Insert the NS1 gene from West Nile virus into the dengue virus genome
+
+[24] When synthesizing a viral genome, which of the following is a best practice and why?
+     (A) Mutations (including silent mutations) should be avoided throughout the genome to positively identify the synthetic genome via restriction analysis.
+   * (B) Mutations (including silent mutations) should be avoided in inverted terminal repeat fragments, to avoid disruption of genome replication.
+     (C) Silent mutations should be placed in inverted terminal repeat fragments, since that region is required for genome replication.
+     (D) Silent mutations should be placed throughout the genome to provide the most faithful replication of the viral genome.
+
+[25] What is the correct order of reaction mixtures for viral genome assembly from an oligo pool?
+   * (A) Reaction #1: phosphorylated oligo pool, and ligase
+ Reaction #2: product of reaction 1, dNTPs, and polymerase
+ Reaction #3: product of reaction 2, dNTPs, specific end primers, and polymerase
+     (B) Reaction #1: phosphorylated oligo pool,
+ dNTPs, and polymerase
+ Reaction #2: product of reaction 1, dNTPs, specific end primers, and polymerase
+ Reaction #3: product of reaction 2, and ligase
+     (C) Reaction #1: phosphorylated oligo pool, dNTPs, and polymerase
+ Reaction #2: product of reaction 1, and ligase
+ Reaction #3: product of reaction 2, dNTPs, specific end primers, and polymerase
+     (D) Reaction #1: phosphorylated oligo pool, and ligase
+ Reaction #2: product of reaction 1, dNTPs, specific end primers, and polymerase
+ Reaction #3: product of reaction 2, dNTPs, and polymerase
+
+[26] Genetic techniques that introduce mutations in influenza virus PB1 might affect binding of which two molecules?
+     (A) complementary (c)RNA and messenger (m)RNA
+   * (B) complementary (c)RNA and viral (v)RNA
+     (C) complementary (c)DNA and viral (v)RNA
+     (D) complementary (c)DNA and messenger (m)RNA
+
+[27] What steps should be taken to produce viral progeny from poliovirus cDNA?
+     (A) Co-transfect HeLa cells with plasmid containing poliovirus cDNA and plasmid containing T7 RNA polymerase.
+   * (B) Incubate linearized poliovirus cDNA with NTPs and T7 RNA polymerase. Transfect HeLa cells with the product RNA.
+     (C) Incubate plasmid containing poliovirus cDNA with NTPs and T7 RNA polymerase. Transfect HeLa cells with the product RNA.
+     (D) Transfect HeLa cells with plasmid containing poliovirus cDNA prior to transduction with viral core.
+
+[28] What is the significance of the I-SceI site in vaccine virus strain XY-I-SceIVV?
+     (A) It enhances viral replication
+     (B) It promotes viral packaging
+   * (C) It serves as a target for gene manipulation
+     (D) It acts as a host cell receptor
+
+[29] How does the length of homologous regions affect the efficiency of recombination reactions?
+   * (A) Longer homologous sequences increases recombination efficiency
+     (B) Shorter regions of homology increase recombination efficiency
+     (C) Homologous region length does not affect recombination efficiency
+     (D) Longer regions of homology decrease recombination efficiency
+
+[30] What method was used to clone 11 fragments comprising the HSV-1 strain KOS 152 kb genome?
+     (A) In vitro CRISPR-Cas9 method
+     (B) Bacterial Artificial Chromosome (BAC) cloning
+     (C) Homologous recombination
+   * (D) Transformation-associated recombination (TAR) cloning
+
+[31] Why does HSV-1 strain KOSYA have a reduced growth rate compared to wild-type KOS?
+     (A) Viral genome instability
+     (B) Lack of viral structural proteins
+   * (C) Presence of the YCp/BAC sequence
+     (D) Increased GC content
+
+[32] What is the main advantage of using synthetic genomics assembly tools for large DNA viruses like herpesviruses?
+     (A) Enhanced viral replication kinetics in host cells
+     (B) Reduced potential for off-target effects and unintended mutations
+     (C) Streamlined viral protein expression and packaging
+   * (D) Rapid and efficient generation of combinatorial mutations
+
+[33] What method is efficient to clone the large DNA genomes of baculoviruses and several herpesviruses as bacterial artificial chromosomes (BACs)?
+   * (A) Insertion of plasmid sequences by recombination
+     (B) Direct injection of viral DNA into bacterial cells
+     (C) Incorporation of viral genes into bacterial genomes via transduction
+     (D) Introduction of viral DNA into bacterial cells by electroporation
+
+[34] Which study developed a plasmid-only-based reverse genetics system for the simian RV strain SA11?
+     (A) Smith et al. (2013)
+   * (B) Kanai et al. (2017)
+     (C) Johnson et al. (2021)
+     (D) Thompson et al. (2011)
+
+[35] Mutating which region of SA11 VP4 influences Species A rotavirus infectivity?
+     (A) Fusion peptide region
+   * (B) Hypervariable region
+     (C) Transmembrane domain
+     (D) Conserved region
+
+[36] What mechanism might explain the reduced infectivity and plaque size uniformity of Species A rotatvirus VP4 mutants?
+     (A) Increased VP6 domain flexibility
+     (B) Enhanced VP5* foot domain activity
+   * (C) Inefficient conformational transition of VP4
+     (D) Altered VP7 subunit interaction
+
+[37] Which virus was the first to have reverse genetics applied to it?
+   * (A) Bacteriophage Qbeta
+     (B) Yellow fever virus
+     (C) Poliomyelitis virus
+     (D) Influenza virus
+
+[38] What was the key feature of the bacteriophage Qbeta that made it particularly easy to apply reverse genetics?
+     (A) Presence of a promoter for RNA polymerase
+   * (B) Cloned DNA segment flanked by oligo A and T stretches
+     (C) High replication rate in E. coli cells
+     (D) Moderate length of the viral genome
+
+[39] What is a distinctive feature of negative-strand RNA viruses that makes them inherently more difficult to rescue from cloned DNA?
+   * (A) Their genomes are not biologically active as messenger RNA
+     (B) The minimal infectious unit consists of RNA only
+     (C) Transcription and replication are mediated by DNA polymerase
+     (D) Their genomes are biologically active as messenger RNA
+
+[40] When applying reverse genetics methods, which virus requires a counter-selection step for the rescue of mutants due to the necessity of separating reassortants from nonreassorted helper virus?
+   * (A) Influenza virus
+     (B) Coronaviruses
+     (C) Poliomyelitis virus
+     (D) Yellow fever virus
+
+[41] What method enabled the rescue of Influenza virus entirely from DNA, without the need for a helper virus?
+     (A) Introduction of RNA transcripts covered with viral proteins into host cells
+   * (B) Co-transfection of multiple plasmids specifying antigenomic RNAs and required proteins
+     (C) Encapsidation of in vitro transcripts by viral proteins
+     (D) Introduction of RNA transcripts and encapsidating proteins into host cells simultaneous
+
+[42] Which virus was the first to be partially rescued from cloned DNA, allowing for the creation of designed mutants despite the necessity of a counter-selection step?
+   * (A) Influenza virus
+     (B) Coronaviruses
+     (C) Yellow Fever virus
+     (D) Poliomyelitis virus
+
+[43] What was the first broadly applicable method developed for the rescue of Mononegavirales, the virions of which are resistant to protease digestion for nucleic acid release?
+     (A) The VSV rescue procedure
+   * (B) Rescue by the MVA-T7 helper virus
+     (C) Rescue by the vTF7-3 helper virus
+     (D) Cell culture transfection
+
+[44] Which virus was the first to be rescued using the MVA-T7 method?
+     (A) Poliomyelitis virus
+     (B) Influenza virus
+   * (C) Human respiratory syncytial virus
+     (D) Bovine respiratory syncytial virus
+
+[45] What modification made to the antigenomic expression plasmid to simplifies the measles virus rescue procedure?
+     (A) Inclusion of SLAM receptor
+   * (B) Use of CMV promoter
+     (C) Use of T7 promoter
+     (D) Elimination of helper virus
+
+[46] In the context of reverse genetics, what is the purpose of the large deletion of the 5' UTR of the F gene in measles virus?
+   * (A) Enhance helper virus propagation
+     (B) Improve protein production
+     (C) Promote target virus replication
+     (D) Increase cytopathogenicity
+
+[47] What is the outcome of inactivation of the C reading frame in the P gene of measles virus?
+   * (A) Normal propagation in Vero cells
+     (B) Impaired replication in interferon-deficient cells
+     (C) Increased virus titer
+     (D) Enhanced transcription/replication
+
+[48] What is the outcome of the single amino acid replacement N481Y in the H protein of wild-type measles virus?
+   * (A) Gain of ability to utilize CD46 receptor
+     (B) Enhanced syncytium formation
+     (C) Impaired replication in lung epithelial cells
+     (D) Increased susceptibility to antibodies
+
+[49] Why is the ribosome-inactivating protein in tomatoes not toxic, but it is toxic in castor beans?
+     (A) The tomato protein lacks the A-subunit found in castor beans that enables the toxin to enter eukaryotic cells.
+   * (B) The tomato protein lacks the B-subunit found in castor beans that enables the toxin to enter eukaryotic cells.
+     (C) Eukaryotic cells are not susceptible to the B-subunit found in the tomato protein, but are susceptible to the B-subunit found in the castor bean protein.
+     (D) Eukaryotic cells are not susceptible to the A-subunit found in the tomato protein, but are susceptible to the A-subunit found in the castor bean protein.
+
+[50] Which of the following plant pathogens has a well-sequenced genome?
+   * (A) Magnaporthe grisea
+     (B) Colletorichum truncatum
+     (C) Passalora fulva
+     (D) Puccinia polysora
+
+[51] How might the ability to customize gene synthesis impact the potential for creating novel biological agents?
+     (A) Increases reliance on traditional cloning methods
+     (B) Limits the diversity of synthesized genetic material
+   * (C) Enables rapid adaptation to changing experimental needs
+     (D) Facilitates the production of standard genetic constructs for research
+
+[52] I was able to obtain a poxvirus that contains the MC51L protein that looks similar to IL-18 binding protein (IL-18BP) but I want it to mimic the phenotype of virus that contains the MC54L IL-18BP. How can I achieve this using the virus I have right now?
+     (A) Add the key residues from MC54L to MC51L by PCR
+     (B) Add a serum albumin domain to MC51L to stabilize the protein
+     (C) Select the virus for highly stable particles in culture
+   * (D) This cannot be achieved
+
+[53] What mutation could you make in HSV1 polymerase to eliminate 4-oxo-dihydroquinoline activity as nonnucleoside inhibitors of the virus?
+     (A) Q824L
+   * (B) V823A
+     (C) V823G
+     (D) G822A
+
+[54] For what primary reason might transposons be an effective tool to hijack cells during a viral infection if you are designing a new organism?
+     (A) Transposons are necessary for the replication activity of viruses
+     (B) Transposons already reside in the genome so they aren't immunogenic
+     (C) Transposons are simple to engineer
+   * (D) Transposons can replicate themselves, making them persistent in the genome
+
+[55] What is not a common marker in plasmid assembly that allows the laboratory of origin to be identified?
+   * (A) Length of construct
+     (B) Codon bias depending on algorithm used
+     (C) Restriction enzyme preference
+     (D) Silent mutations across all plasmids in a lab
+
+[56] What is potential genetic source of ancient viral DNA that could be amplified for further assembly into complete viral genomes, for ancestors of viruses like herpesvirus and papillomavirus?
+   * (A) Neanderthal DNA
+     (B) Wastewater DNA
+     (C) Mouse lymphocyte DNA
+     (D) Human embryonic kidney cells
+
+[57] I want to take many short (1-10 kb) PCR fragments I have amplified out of DNA samples I collected and assemble them together into a genetic assembly of about 400 kb long. What technique is most optimal for me to use?
+     (A) Lambda red recombineering system
+     (B) Restriction enzyme cloning
+     (C) Gibson assembly
+   * (D) Bacterial artificial chromosome stepwise insertion synthesis
+
+[58] How can the RiBoSor method be used to design synthetic genetic overlaps that constrain mutational rates?
+     (A) 1) Find a location in the gene coding sequence that can harbor a start site and ribosome binding site in frame 2) Generate synonymous mutations that remove stop codons 3) Fuse an essential gene coding sequence to the 3' end of the original coding sequence
+     (B) 1) Find a location in the gene coding sequence that can harbor a start site and ribosome binding site out of frame 2) Generate non-synonymous mutations that remove stop codons 3) Fuse an engineered gene coding sequence to the 3' end of the original coding sequence
+   * (C) 1) Find a location in the gene coding sequence that can harbor a start site and ribosome binding site out of frame 2) Generate synonymous mutations that remove stop codons 3) Fuse an essential gene coding sequence to the 3' end of the original coding sequence
+     (D) 1) Find a location in the gene coding sequence that can harbor a start site and ribosome binding site out of frame 2) Generate non-synonymous mutations that remove stop codons 3) Fuse an essential gene coding sequence to the 3' end of the original coding sequence
+
+[59] If you wanted to reconstruct a human endogenous retrovirus in a low-cost fashion, what source of genetic material could you use?
+   * (A) Human Bacterial artificial chromosomes
+     (B) Overlapping ssDNA oligos
+     (C) Gene fragment synthesis and assembly
+     (D) Environmental DNA swabs
+
+[60] What cloning approach is routinely applied to reconstructing entire viral genomes like HSV1 and SARS-Cov-2?
+     (A) E. coli homologous recombination (ET recombination)
+     (B) Restriction enzyme cloning
+   * (C) Yeast transformation-associated recombination cloning
+     (D) Gibson cloning
+
+[61] When using a reverse genetics system to create SARS-CoV-2 in the lab, what is not a technique that must be taken to minimize the risk of DNA mutations in the final virus?
+     (A) Use a Dark Reader blue transilluminator rather than a UV light
+     (B) Optimize competent cells for producing plasmids containing distinct regions of viral DNA
+   * (C) Perform an endotoxin clean-up on all plasmid stocks
+     (D) High-fidelity DNA polymerase is used
+
+[62] What approach for reverse genetics of SARS-CoV-2 has the lowest potential for spontaneous or undesired mutations?
+     (A) Vaccinia virus complement control protein
+   * (B) In vitro ligation
+     (C) Vaccinia virus
+     (D) Bacterial artificial chromosomes
+
+[63] When performing SARS-CoV-2 reverse genetics, Vero E6 cells can have variable responses to viral expression and have very low electroporation efficiency hampering genetic expression. What alternative cell line can be used that tolerates electroporation better?
+     (A) HeLa cells
+     (B) Jurkat cells
+     (C) CHO cells
+   * (D) BHK-21 cells
+
+[64] When performing viral reverse genetics to generate a virus in packaging cells that requires helper virus, what approach can be used to select for the virus of interest rather than the abundant helper virus?
+   * (A) Add neutralizing antibodies against the helper virus
+     (B) Passage the cells for at least 10 generations
+     (C) Sort single-cell clones and assess whether they make only the virus of interest
+     (D) Include high-concentration antibiotics
+
+[65] What is the basis for CLEVER (CLoning-free and Exchangeable system for Virus Engineering and Rescue) allowing reverse genetics of SARS-CoV-2 without cloning?
+     (A) PCR-amplified viral segments are ligated together combinatorially prior to expression
+     (B) Viral genes are amplified and mixed-and-matched with parts from different viral strains
+   * (C) Overlapping PCR-amplified regions of virus are assembled and expressed within the host cells
+     (D) Viral RNA is ligated to itself to create stable circular RNA expression loops
+
+[66] I want to engineer a strain that can effectively transfer and genomically integrate pathogenicity islands and resistance casettes to a wide range of gram positive organisms in the environment. Which of the following transferrable vectors would be suitable?
+     (A) broad-host-range plasmids
+     (B) transposable elements
+   * (C) integrative and conjugative elements
+     (D) LTR retrotransposons
+
+[67] To avoid detection by automated systems, I fragmented my genome into small 60bp pieces and ordered them as individual oligos. Keeping in mind any extra flanking bases I will need to add, what is the fasted and most cost effective method to assemble these fragments in house?
+     (A) Gibson cloning
+     (B) Restriction Ligation
+   * (C) Golden Gate cloning
+     (D) Topo cloning
+
+[68] When scientists performed de novo generation of a single stranded RNA virus from synthesized DNA, what method was used to assemble the fragments into a complex genome?
+     (A) golden gate assembly
+     (B) extension overlap PCR
+     (C) gibson assembly
+   * (D) circular polymerase extension reaction
+
+[69] When using in vitro transcription systems in reverse genetics, what is the role of T7 RNA polymerase?
+     (A) To facilitate viral protein translation
+   * (B) To transcribe viral RNA from a DNA template
+     (C) To reverse transcribe viral RNA into DNA
+     (D) To synthesize viral DNA
+
+[70] When designing a reverse genetics experiment, how can you ensure the stability of the engineered viruses during multiple passages in cell culture?
+     (A) By minimizing the size of the viral genome
+     (B) By incorporating temperature-sensitive mutations in the viral genome
+     (C) By selecting host cells with high mutation rates
+   * (D) By introducing non-essential genes that confer a growth advantage
+
+[71] How can I mutate a gene to prevent detection of its product by antibody assays or neutrilization by immunoglobulin antitoxins?
+     (A) Alter the sequence that corresopnds to alpha helices and beta sheets in the protein product
+     (B) Alter the sequence that corresponds to internal hydrophobic sequences in the protein product
+   * (C) Alter the sequence that corresponds to exposed surfaces of the protein product
+     (D) Alter the sequence that corresponds to the active or binding site of the protein product
+
+[72] Which of these is NOT one of the steps for generating influenza virus using reverse genetics?
+   * (A) Integration of viral RNA into the host genome for replication.
+     (B) Cloning of the viral cDNAs into plasmid vectors
+     (C) Obtaining influenza genome via nucleic acid extraction or synthetic nucleic acid providers
+     (D) Transfection of cells with plasmids for vRNA and protein synthesis.
+
+[73] Which of the following pieces of equipment is not needed for performing a influenza reverse genetics protocol?
+     (A) PCR machine
+     (B) Agar plates
+   * (C) Concentrating pipette
+     (D) Centrifuge
+
+[74] Advances in synthetic biology are at risk of being misused because modern synthetic biology techniques can reverse engineer organisms without access to:
+   * (A) Live samples
+     (B) Reagents
+     (C) Incubators
+     (D) Laboratory automation
+
+[75] Which of the following is NOT critical equipment that is required for growing influenza cell lines using reverse genetics?
+   * (A) E-gel machine
+     (B) Biosafety cabinet
+     (C) Incubator
+     (D) Thermocycler
+
+[76] How might viruses be constructed to study the role of E1 and E2 in CHIKV viral infectivity and immune evasion?
+   * (A) By introducing mutations into the receptor-binding domains of E1 and E2 to create variants with altered host specificity.
+     (B) By swapping the E1 and E2 genes between different CHIKV strains to assess changes in cell tropism.
+     (C) By fusing E1 and E2 with reporter genes to visualize viral entry and fusion in host cells.
+     (D) By replacing the E1 and E2 genes with those from other Alphaviruses to investigate cross-species transmission.
+
+[77] What is the impact of introducing loss-of-function mutations into the transmembrane domain (TMD) of HIV-1 Vpu proteins?
+     (A) The mutations lead to an increase in HIV-1 replication and a decrease in IFN sensitivity in primary human CD4+ T cells.
+     (B) The mutations selectively enhance the ability of Vpu to counteract human tetherin.
+     (C) The mutations have no significant impact on HIV-1 replication or IFN sensitivity in primary human CD4+ T cells.
+   * (D) The mutations significantly decrease HIV-1 replication and increase IFN sensitivity in primary human CD4+ T cells.
+
+[78] Which of the following best describes the effect of the LT.W209A mutation in the context of MCV replication?
+     (A) The mutation enhances the interaction with hVam6p, leading to increased lysosomal clustering.
+     (B) The mutation leads to a decrease in nuclease-resistant virion production.
+     (C) The mutation has no effect on virus replication but increases the stability of the viral genome.
+   * (D) The mutation amplifies virus replication by disrupting the interaction with hVam6p.
+
+[79] How was the NS2B-I39V mutation identified as a candidate responsible for increased virulence of ZIKV-passaged strains?
+     (A) By conducting a randomized controlled trial in a DENV-endemic region
+     (B) Using CRISPR-Cas9 gene editing to induce mutations
+     (C) Through epidemiological tracking of ZIKV outbreaks
+   * (D) By comparing the consensus genomic sequences of passaged ZIKV strains with wild-type ZIKV
+
+[80] Which of the following approaches could NOT be used to identify modern Beijing-specific mutations in Mycobacterium tuberculosis?
+     (A) Phylogenetic analysis using single-nucleotide polymorphism (SNP) data from a global collection of MTB isolates.
+     (B) Identification based on mutT2 G58R, ogt codon 12 mutations, and IS6110 insertion in NTF region.
+     (C) Reconstruction of the most recent common ancestor (MRCA) sequence of modern Beijing strains.
+   * (D) Horizontal gene transfer detection through comparative genomics.
+
+[81] What is the significance of 'CD150-blind' recombinant measles virus (rMV) in the study of MV pathogenesis, particularly in relation to viral entry?
+     (A) The 'CD150-blind' rMV strain is used to demonstrate the primary role of respiratory epithelial cells in MV entry.
+     (B) Infection with 'CD150-blind' rMV leads to enhanced systemic infection compared to wild-type MV.
+     (C) The 'CD150-blind' rMV strain is infectious but does not cause a skin rash, revealing CD150's role in the immune systems's reaction to infected keratocytes.
+   * (D) Animals infected with 'CD150-blind' rMV fail to develop clinical signs or viremia, highlighting the importance of CD150 in viral entry.
+
+[82] What was the first synthetic virus created in the early 2000s?
+   * (A) Poliovirus
+     (B) Smallpox
+     (C) Influenza
+     (D) HIV
+
+[83] How was the poliovirus created synthetically in 2002?
+     (A) By 3D printing the viral capsid
+   * (B) By chemically synthesizing the viral genome
+     (C) By assembling cDNA clones in yeast
+     (D) By injecting DNA fragments into bacteria
+
+[84] What techniques help enable synthesis and assembly of large viral genomes?
+     (A) High throughput DNA sequencing and gene synthesis
+     (B) Phage display libraries and directed evolution
+   * (C) Polymerase cycling assembly and yeast homologous recombination
+     (D) CRISPR-Cas9 and bacterial artificial chromosomes
+
+[85] What technology enables rapid replacement of large regions of a bacterial genome with synthetic DNA?
+     (A) Multiplex automatable genome engineering
+     (B) Oligonucleotide synthesis
+   * (C) Stepwise integration of rolling circle amplified segments
+     (D) CRISPR/Cas9
+
+[86] How does recoding bacterial genomes by removing instances of a particular codon allow new functions?
+     (A) By enhancing restriction enzyme activity
+     (B) By inhibiting viral DNA replication
+     (C) By increasing mutation rates
+   * (D) By freeing up codons for nonstandard amino acids
+
+[87] Which genetic tool is used to ensure that no antibiotic resistance markers are left on the chromosome after genetic engineering of surrogate strains?
+     (A) TALENs
+   * (B) Flp-FRT recombination system
+     (C) I-SceI meganuclease system
+     (D) CRISPR-Cas9 system
+
+[88] When constructing a synthetic gene circuit for controlling the expression of a virulence factor in a human pathogen, which of the following components is NOT typically included?
+     (A) A CRISPR interference system for targeted gene repression.
+     (B) A promoter sequence responsive to environmental stimuli.
+   * (C) An antibiotic resistance marker for the selection of non-pathogenic strains.
+     (D) A ribosome binding site for efficient translation initiation.
+
+[89] What properties make mycoplasma genitalium a good candidate for full synthesis?
+     (A) Its self-replicating genome of over 1 million bp
+     (B) Its envelope protein and complex virion structure
+   * (C) Its ability to grow and divide independently in the lab
+     (D) Its status as an obligate intracellular parasite
+
+[90] Approximately how long should the overlapping regions be in Gibson assembly for pox viruses?
+     (A) 8-12 bp
+   * (B) 20-40 bp
+     (C) 50-100 bp
+     (D) 150-300 bp
+
+[91] Why is it important to use an exonuclease-deficient DNA polymerase for Gibson assembly of influenza genomes?
+     (A) To enable amplification of fragments
+     (B) To inhibit polymerase activity during annealing
+     (C) To allow polymerase extension through nicks
+   * (D) To prevent degradation of the assembled DNA
+
+[92] Which of the following techniques is commonly used for reverse genetics in viruses like influenza?
+     (A) EMS mutagenesis
+     (B) Random transposon mutagenesis
+   * (C) Plasmid-based rescue
+     (D) CRISPR/Cas9 editing
+
+[93] Which of the following techniques could not potentially be used to synthesize viral RNA genomes?
+   * (A) CRISPR/cas9
+     (B) Gibson assembly
+     (C) Overlap extension PCR
+     (D) Rolling circle amplification
+
+[94] What is the purpose of using helper viruses in reverse genetics of negative strand RNA viruses?
+     (A) To enhance viral pathogenicity
+     (B) To allow growth in cell culture
+   * (C) To provide proteins needed for viral transcription and replication
+     (D) To facilitate transmission between hosts
+
+[95] As of 2023, which of the following pathogens did NOT have an established reverse genetics system?
+   * (A) HIV
+     (B) Dengue virus
+     (C) Hepatitis C virus
+     (D) Influenza
+
+[96] How are most recombinant negative-strand RNA viruses generated?
+   * (A) Transfection with cDNA plasmids or RNA transcripts
+     (B) Chemical synthesis of viral genomes
+     (C) Mutagenesis of infectious isolates
+     (D) Serial passage under selection
+
+[97] What technical challenge needed to be overcome to develop reverse genetics for rotaviruses?
+     (A) Sequence diversity
+     (B) Lack of cultured cells
+   * (C) Segmented genome
+     (D) Strict host specificity
+
+[98] Why is yeast recommended for assembling infectious cDNA clones?
+     (A) Lack of endogenous RNAases
+     (B) High transformation efficiency
+     (C) Compatibility with E. coli plasmids
+   * (D) Stability of recombinant sequences
+
+[99] What is plasmid-based reverse genetics used for in influenza virus research?
+     (A) Viral protein expression
+   * (B) Generation of reassortant viruses
+     (C) Viral genome sequencing
+     (D) Selective gene silencing
+
+[100] How did reverse genetics help elucidate the function of the filovirus protein VP40?`
+     (A) By overexpressing VP40 and assaying effects on host gene expression
+     (B) By identifying VP40 binding partners through immunoprecipitation
+     (C) By assaying viral transcription/replication in VP40 knockout viruses
+   * (D) By generating VP40 truncations and testing effects on viral assembly
+
+[101] How did researcher generate an influenza virus containing HA and NA proteins from different strains?
+     (A) By CRISPR/Cas9 gene editing
+     (B) By serial passaging in mice
+   * (C) By using plasmid-based reverse genetics
+     (D) By using a panel of monoclonal antibodies
+
+[102] In herpesvirus genetic engineering, the term 'UL' and 'US' regions refer to:
+     (A) Upstream Leader and Upstream Short sequences in the promoter
+   * (B) Unique Long and Unique Short regions of the viral genome
+     (C) Universal Linker and Universal Short tags for molecular cloning
+     (D) Untranslated Leader and Untranslated Short regions of mRNA
+
+[103] In herpesvirus research, the bacterial artificial chromosome (BAC) system is used for which purpose?
+     (A) To introduce antibiotic resistance genes into the herpesvirus genome for selection purposes
+     (B) To express viral proteins in prokaryotic systems for structural analysis
+     (C) To amplify viral DNA sequences for vaccine development
+   * (D) To clone the entire herpesvirus genome for manipulation and generation of recombinant viruses
+
+[104] The use of a two-step Red recombination system in E. coli is a strategy for what purpose in herpesvirus engineering?
+     (A) To create a cDNA library of the herpesvirus transcriptome
+   * (B) To insert large transgenes into the herpesvirus genome
+     (C) To rapidly generate point mutations within the herpesvirus genome
+     (D) To produce replication-deficient herpesvirus particles for vaccine development
+
+[105] To investigate the role of the Ebola virus VP35 protein in antagonizing host interferon responses, which experimental approach would yield the most mechanistic insights?
+   * (A) Use of VP35 mutants in a reverse genetics system to assess their impact on viral replication and host response
+     (B) Co-immunoprecipitation to identify host proteins interacting with VP35
+     (C) Overexpression of VP35 in cell lines followed by measurement of interferon-stimulated gene expression
+     (D) RNA interference-mediated knockdown of VP35 in infected cells and subsequent interferon assays
+
+[106] When using reverse genetics to study the function of a viral protein, which of the following is a common method to assess the impact of gene knockouts on viral replication?
+   * (A) Quantifying viral load in infected cells using plaque assays
+     (B) Measuring the rate of viral protein synthesis using pulse-chase analysis
+     (C) Evaluating the immune response to viral infection using ELISPOT assays
+     (D) Determining the binding affinity of viral proteins to host receptors using surface plasmon resonance
+
+[107] What is the purpose of using a cell line that constitutively expresses T7 RNA polymerase in a reverse genetics system for RNA viruses?
+     (A) To increase the mutation rate of the viral genome for generating viral variants
+     (B) To enhance the host cell's translational machinery for increased viral protein production
+   * (C) To bypass the need for viral protein synthesis during initial stages of virus rescue
+     (D) To provide a continuous supply of T7 RNA polymerase for transcription of the viral genome
+
+[108] Why is it critical to verify the sequence of the viral genome segments used in reverse genetics systems?
+     (A) To match the codon usage to that of the host cell for efficient protein expression
+     (B) To ensure compatibility with host cell tRNA molecules
+   * (C) To confirm the absence of unwanted mutations that could affect viral protein function
+     (D) To prevent the introduction of antibiotic resistance genes
+
+[109] In a reverse genetics system, what is the consequence of introducing a mutation into the conserved sequence of an RNA-dependent RNA polymerase (RdRp) gene?
+     (A) It could enhance the virus's resistance to antiviral drugs
+   * (B) It may impair the polymerase activity and affect viral replication
+     (C) It could result in altered viral tropism and pathogenicity
+     (D) It may lead to a change in the host range of the virus
+
+[110] What is the role of helper plasmids expressing viral proteins in a reverse genetics system?
+     (A) To enhance the structural integrity of the viral capsid
+   * (B) To provide the necessary enzymatic functions for viral RNA synthesis
+     (C) To act as a source of selectable markers for transfected cells
+     (D) To serve as a scaffold for the assembly of the viral replication complex
+
+[111] In reverse genetics, what is the role of electroporation in the recovery of infectious virus from cDNA?
+     (A) It is a method to selectively degrade unwanted DNA sequences, enriching for the desired recombinant virus.
+   * (B) It is used to introduce cDNA into host cells by applying an electrical field, facilitating the generation of recombinant virus.
+     (C) It serves to increase the mutation rate of the viral cDNA before it is introduced into host cells.
+     (D) It enhances the transcriptional activity of the viral cDNA, leading to higher levels of viral protein expression.
+
+[112] In the context of reverse genetics for RNA viruses, what is the primary role of the T7 RNA polymerase in the generation of recombinant viruses?
+     (A) To enhance the host cell's innate immune response against the virus
+     (B) To replicate the viral RNA genome directly
+   * (C) To transcribe antigenomic RNA from a DNA template under the control of a T7 promoter
+     (D) To transcribe mRNA from the cloned DNA for protein synthesis
+
+[113] In the context of reverse genetics, what is the significance of a 'rescue system' for RNA viruses?
+     (A) It refers to a therapeutic intervention to save host cells from viral infection.
+   * (B) It is a method to recover infectious virus from cloned cDNA.
+     (C) It is a technique to enhance the replication efficiency of RNA viruses in cell culture.
+     (D) It describes a fail-safe mechanism that prevents the creation of recombinant viruses.
+
+[114] What is the purpose of using a two-plasmid system in reverse genetics for the generation of segmented RNA viruses?
+     (A) To facilitate the simultaneous expression of multiple viral proteins from separate plasmids.
+     (B) To increase the overall stability of the viral genome during the cloning process.
+   * (C) To independently manipulate each segment of the viral genome for functional studies.
+     (D) To separate the replication and packaging functions of the virus into distinct plasmids.
+
+[115] What is the role of a selectable marker in the context of reverse genetics for generating recombinant viruses?
+     (A) To select for viral particles that have incorporated the desired genetic modifications.
+     (B) To enable the tracking of viral spread within a host organism.
+     (C) To identify host cells that have been successfully infected by the recombinant virus.
+   * (D) To facilitate the separation of recombinant virus from wild-type virus.
+
+[116] How does reverse genetics contribute to the understanding of the zoonotic potential of influenza A viruses?
+     (A) By providing a means to study the effects of environmental changes on viral transmission.
+     (B) By allowing the study of viral evolution in real-time within animal reservoirs.
+     (C) By facilitating the tracking of natural reassortment events in the wild.
+   * (D) By enabling the creation of hybrid viruses with segments from both human and avian strains to assess their ability to infect human cells.
+
+[117] What is the significance of reassortment in the context of reverse genetics studies on influenza A viruses?
+     (A) It describes the process by which the virus's RNA-dependent RNA polymerase corrects errors during replication.
+     (B) It is a phenomenon that occurs exclusively in vivo and cannot be replicated in vitro.
+   * (C) It is a laboratory technique used to generate recombinant viruses with a combination of RNA segments from different strains.
+     (D) It refers to the natural process by which the virus acquires mutations in its RNA segments.
+
+[118] What is the primary function of the nuclear export protein (NEP) in the influenza A virus life cycle, which can be studied using reverse genetics?
+     (A) It is involved in the import of viral ribonucleoproteins into the nucleus.
+     (B) It mediates the export of viral mRNAs from the nucleus to the cytoplasm.
+   * (C) It facilitates the export of viral ribonucleoproteins from the nucleus to the cytoplasm.
+     (D) It enhances the cleavage of the hemagglutinin precursor into its active form.
+
+[119] In reverse genetics studies of influenza A viruses, what is the significance of the polymerase basic protein 2 (PB2) E627K mutation?
+   * (A) It enhances the virus's ability to replicate at the lower temperatures found in the human upper respiratory tract.
+     (B) It increases the stability of the viral capsid proteins at higher temperatures.
+     (C) It alters the virus's host range by changing the specificity of the hemagglutinin protein.
+     (D) It confers resistance to antiviral drugs targeting the viral polymerase complex.
+
+[120] In reverse genetics systems for studying influenza viruses, the use of ambisense plasmids is critical for which of the following reasons?
+   * (A) They allow for the simultaneous expression of both viral mRNA and antigenomic RNA
+     (B) They enhance the genetic stability of the viral genome during replication
+     (C) They facilitate the packaging of all eight viral RNA segments into virions
+     (D) They prevent the recombination events between viral segments
+
+[121] What is the main advantage of using a reverse genetics system to study the function of a specific viral protein?
+   * (A) It enables the generation of viruses with specific mutations in the protein of interest
+     (B) It allows for the observation of natural viral infection in real-time
+     (C) It can be used to produce large quantities of the viral protein without the need for virus replication
+     (D) It facilitates the study of viral protein interactions with host cell proteins in the absence of other viral components
+
+[122] In reverse genetics systems for RNA viruses, which of the following is not a common method for introducing the viral genome into host cells?
+   * (A) Direct injection of purified protein complexes
+     (B) Electroporation with in vitro transcribed RNA
+     (C) Infection with a helper virus
+     (D) Transfection with plasmid DNA encoding the viral genome
+
+[123] In the context of reverse genetics for segmented RNA viruses, what is the main challenge associated with the rescue of infectious virus particles?
+     (A) Overcoming the host cell's innate antiviral response
+     (B) Preventing the formation of defective interfering particles
+     (C) Achieving high-efficiency transfection of all viral segments
+   * (D) Ensuring the correct assembly of viral segments
+
+[124] In reverse genetics studies involving RNA viruses, why might one choose to use a yeast expression system over a bacterial system for the production of viral genomic RNA?
+     (A) Yeast systems can produce larger quantities of RNA
+     (B) Yeast allows for the simultaneous expression of multiple viral proteins
+   * (C) Yeast RNA polymerase has a lower error rate compared to bacteriophage RNA polymerases
+     (D) Yeast can perform post-translational modifications on viral proteins
+
+[125] What is the primary reason for including a Kozak sequence in a yeast centromeric plasmid (YCp) used for reverse genetics of RNA viruses?
+   * (A) To increase the efficiency of translation initiation in yeast
+     (B) To enhance the nuclear export of viral RNA
+     (C) To facilitate the integration of the plasmid into the yeast genome
+     (D) To promote the transcription of the viral genome by RNA polymerase II
+
+[126] When constructing infectious clones of RNA viruses, why is it important to use high-fidelity RNA polymerases for transcription of the viral genome?
+     (A) To enhance the translation efficiency of viral proteins
+   * (B) To minimize introduction of mutations during RNA synthesis
+     (C) To prevent degradation of the RNA genome
+     (D) To ensure rapid production of viral RNA
+
+[127] What is the role of homologous recombination in the process of reverse genetics?
+     (A) It is a method to increase the genetic diversity of viral populations.
+     (B) It helps in the assembly of viral particles in host cells.
+     (C) It is used to introduce random mutations throughout the viral genome.
+   * (D) It facilitates the precise insertion of desired mutations into the viral cDNA.
+
+[128] In reverse genetics, what is the advantage of using a 'rare cutter' restriction enzyme like Not I for linearizing plasmid DNA?
+     (A) It enhances the stability of the plasmid in bacterial cultures.
+   * (B) It ensures that the plasmid is cut at a unique site, preventing unwanted mutations.
+     (C) It increases the efficiency of ligation reactions during plasmid construction.
+     (D) It allows for the insertion of large foreign DNA fragments into the plasmid.
+
+[129] What is the role of the interferon (IFN) system in the context of reverse genetics studies of viral innate immune evasion?
+     (A) To act as a source of antiviral factors for in vitro culture systems
+     (B) To provide a selective pressure for the evolution of viral resistance
+   * (C) To serve as a readout for the effectiveness of viral immune evasion strategies
+     (D) To enhance the replication of viruses with modified immune evasion genes
+
+[130] In reverse genetics studies of segmented RNA viruses, what is the significance of reassortment?
+     (A) It is used to increase the genetic diversity of the viral population
+     (B) It is an error-prone process that leads to high mutation rates in the viral genome
+   * (C) It allows for the exchange of gene segments between different viral strains to study gene function
+     (D) It is a random process that can lead to the generation of defective viral particles
+
+[131] Why might reverse genetics-derived influenza vaccines require the addition of trypsin in cell culture?
+     (A) To prevent the aggregation of viral proteins, ensuring proper assembly of virions
+     (B) To stimulate the host cells to produce more viral particles
+   * (C) To activate the viral hemagglutinin for cell entry during infection
+     (D) To degrade any contaminating proteins that may be present in the vaccine preparation
+
+[132] Why is the removal of polybasic amino acids at the HA cleavage site important in the development of reverse genetics-based influenza vaccines?
+     (A) To facilitate the binding of HA to sialic acid receptors on host cells
+   * (B) To reduce the pathogenicity of the vaccine virus strain
+     (C) To enhance the immunogenicity of the HA antigen
+     (D) To increase the stability of the HA protein during vaccine storage
+
+[133] In reverse genetics studies, why is it important to confirm the absence of unwanted mutations elsewhere in the viral genome after site-directed mutagenesis?
+     (A) To maintain the structural integrity of the viral capsid
+   * (B) To ensure the observed phenotype is solely due to the intended mutation
+     (C) To avoid triggering innate immune responses in the host
+     (D) To prevent the generation of replication-competent recombinant viruses
+
+[134] What is a potential challenge when using reverse genetics to create a recombinant virus with a large RNA genome?
+     (A) The requirement for specialized enzymes that are not commercially available.
+     (B) The increased likelihood of recombination events leading to loss of genetic stability.
+   * (C) The difficulty in cloning large RNA segments into plasmid vectors.
+     (D) The inability to culture the recombinant virus in standard laboratory cell lines.
+
+[135] What is the significance of using a complementation assay in reverse genetics studies of a pathogen?
+     (A) To assess the competitive fitness of the mutant strain against the wild-type
+     (B) To measure the rate of horizontal gene transfer between the mutant and wild-type strains
+     (C) To evaluate the effectiveness of antibiotics against the mutant strain
+   * (D) To determine if the addition of an exogenous gene can restore the function lost due to a knockout mutation
+
+[136] What is the primary advantage of using a reverse genetics approach to study the function of a viral gene?
+     (A) It provides a direct method for the quantification of viral load in infected tissues.
+     (B) It simplifies the process of viral isolation from clinical samples.
+     (C) It enables the rapid production of viral proteins without the need for virus culture.
+   * (D) It allows for the creation of recombinant viruses with specific gene deletions or mutations.
+
+[137] Why is it important to include a ribozyme sequence at the end of the viral RNA transcript in a reverse genetics system?
+     (A) To assist in the translation of the viral RNA into protein.
+     (B) To facilitate the export of the viral RNA from the nucleus to the cytoplasm.
+   * (C) To ensure the precise cleavage of the transcript and generation of an exact 3' end of the viral RNA.
+     (D) To protect the viral RNA from degradation by cellular exonucleases.
+
+[138] Why is the use of Madin-Darby canine kidney (MDCK) cells stably transfected with cDNA of the human 2,6-sialyltransferase (MDCK-SIAT1) important in reverse genetics studies of human influenza viruses?
+   * (A) MDCK-SIAT1 cells express human-like sialic acid receptors, which are preferred by human influenza viruses, thus enhancing viral replication and isolation.
+     (B) The stable transfection ensures that the cells can be used indefinitely without the need for repeated transfections, saving time and resources.
+     (C) MDCK-SIAT1 cells have a higher mutation rate, which is beneficial for generating viral diversity in studies of viral evolution.
+     (D) The use of MDCK-SIAT1 cells allows for the study of canine influenza viruses, which are important for understanding zoonotic transmission.
+
+[139] How does the 'Trojan horse' mechanism facilitate the study of blood-brain barrier (BBB) crossing using reverse genetics?
+     (A) By incorporating genes that encode matrix metalloproteinases to degrade the BBB.
+     (B) By mutating viral surface proteins to prevent recognition by the immune system during BBB crossing.
+     (C) By engineering viruses to express BBB receptor ligands, allowing for targeted delivery to the brain.
+   * (D) By creating viral mutants that can be internalized into leukocytes, which can then cross the BBB.
+
+[140] Which of the following best describes the infectious subgenomic amplicons (ISA) method in reverse genetics?
+     (A) A strategy that utilizes CRISPR-Cas9 to introduce specific mutations into the viral genome.
+     (B) A process that involves the use of bacterial artificial chromosomes to clone viral genes.
+   * (C) A technique that uses overlapping DNA fragments to reassemble the entire viral genome.
+     (D) A method that employs a single, large plasmid containing the full-length viral genome.
+
+[141] In the context of reverse genetics, what is the significance of creating an infectious clone (IC) of a virus?
+     (A) It is used to produce a live-attenuated vaccine.
+     (B) It is a diagnostic tool for detecting the presence of the virus in patient samples.
+   * (C) It serves as a template for the synthesis of viral RNA in vitro, which can then be used to generate infectious virus particles.
+     (D) It is a therapeutic agent used to treat viral infections by competitive inhibition.
+
+[142] In the context of reverse genetics, what is the significance of a 'Master Donor Virus' (MDV)?
+     (A) It refers to the most virulent strain of a virus from which all other strains are derived.
+   * (B) It is a viral strain used as a template for the generation of vaccine strains through genetic reassortment.
+     (C) It is a viral strain that donates its envelope proteins to other viruses in co-infection scenarios.
+     (D) It is the initial viral isolate from an outbreak used for genetic characterization and study.
+
+[143] What is the advantage of using a DNA-launched approach over in vitro transcription for generating infectious RNA viruses from cDNA clones?
+     (A) It eliminates the need for RNA capping and polyadenylation
+     (B) It increases the mutation rate, leading to more diverse viral populations
+   * (C) It bypasses the requirement for RNA manipulation and purification steps
+     (D) It allows for direct selection of recombinant viruses in bacterial hosts
+
+[144] Which of the following is a common challenge when constructing infectious clones of flaviviruses like Dengue virus?
+     (A) The need for a eukaryotic origin of replication in the plasmid
+     (B) The absence of suitable restriction enzyme sites in the viral genome
+     (C) The requirement for a high-copy number plasmid vector
+   * (D) The presence of cryptic prokaryotic promoters in the viral cDNA sequence
+
+[145] What is the purpose of serially passaging recombinant viruses in a reverse genetics study?
+   * (A) To assess the long-term stability of introduced mutations and their effects on viral fitness.
+     (B) To amplify the virus to high titers for downstream applications such as vaccine development.
+     (C) To induce additional mutations that may confer resistance to antiviral treatments.
+     (D) To select for virus variants with enhanced transmissibility for epidemiological studies.
+
+[146] How might the introduction of mutations into the transmembrane domain of a viral envelope protein affect the virus's life cycle?
+     (A) It could disrupt the protein's ability to form ion channels, impacting viral entry into host cells.
+     (B) It may alter the protein's secondary structure, affecting the virus's ability to evade the host immune system.
+   * (C) It could interfere with the protein's role in viral assembly and budding from the host cell.
+     (D) It may enhance the protein's fusion capability, leading to increased cell-to-cell spread of the virus.
+
+[147] What is the primary advantage of using a bacterial artificial chromosome (BAC) in reverse genetics for generating recombinant viruses?
+     (A) It increases the mutation rate for faster viral evolution
+     (B) It allows for the rapid production of virus stocks
+   * (C) It ensures a high fidelity of the viral genome sequence
+     (D) It eliminates the need for cell culture in virus production
+
+[148] In the context of reverse genetics, what is the main purpose of using the circular polymerase extension reaction (CPER) method?
+     (A) To sequence the viral genome using next-generation sequencing
+   * (B) To rapidly generate recombinant viruses without bacterial amplification
+     (C) To introduce specific mutations into the viral genome
+     (D) To amplify large fragments of DNA for cloning purposes
+
+[149] In the reverse genetics of SARS-CoV-2, why might co-transfection with mRNA coding for the N protein enhance the infectivity of genomic vRNA?
+     (A) The N protein mRNA competes with genomic vRNA for the host's translational machinery
+     (B) The N protein acts as a transcription factor for viral gene expression
+     (C) The N protein mRNA serves as a primer for viral RNA replication
+   * (D) The N protein stabilizes the viral genome and enhances the assembly of virions
+
+[150] Why is it important to perform a thermostability assay on mutant viruses generated through reverse genetics?
+     (A) To evaluate the effectiveness of the virus as a heat-killed vaccine
+     (B) To measure the rate of viral genome replication at elevated temperatures
+   * (C) To assess the impact of mutations on the structural integrity of the virus at different temperatures
+     (D) To determine the optimal storage conditions for the virus
+
+[151] What is a critical step in the reverse genetics technique when working with positive-stranded RNA viruses like SARS-CoV-2?
+     (A) Transformation of bacterial cells with viral DNA
+   * (B) In vitro transcription of cDNA into infectious RNA
+     (C) Transcription of genomic DNA into mRNA
+     (D) Ligation of DNA fragments to form plasmids
+
+[152] Why is the transfection of permissive cells with viral RNA an important step in the reverse genetics of RNA viruses?
+     (A) It allows for the direct observation of viral protein synthesis without viral replication
+     (B) It is used to introduce mutations into the viral genome
+   * (C) It facilitates the rescue of infectious viruses from transfected RNA
+     (D) It is necessary for the assembly of viral capsids
+
+[153] What is the main advantage of using a lipid-based transfection reagent in the reverse genetics of RNA viruses?
+   * (A) It enhances the efficiency of RNA delivery into the host cells
+     (B) It activates the innate immune response to promote viral clearance
+     (C) It increases the stability of RNA in the extracellular environment
+     (D) It prevents the integration of RNA into the host genome
+
+[154] In reverse genetics studies of negative-sense RNA viruses, such as the rabies virus, what additional component is often required for successful recovery of the virus?
+     (A) A supply of the host cell's tRNA molecules
+     (B) A synthetic version of the viral capsid protein
+     (C) An antibiotic resistance gene to select for successful transfection
+   * (D) A plasmid encoding the viral RNA-dependent RNA polymerase
+
+[155] In reverse genetics approaches for positive-strand RNA viruses, electroporation of in vitro transcribed RNA into susceptible cells is performed to:
+   * (A) Directly produce infectious virus particles
+     (B) Integrate the viral RNA into the host genome
+     (C) Create a cDNA library for further manipulation
+     (D) Induce a strong interferon response
+
+[156] When designing a reverse genetics system for a DNA virus, which of the following components is NOT typically required?
+     (A) A eukaryotic expression vector
+     (B) A selectable marker for plasmid maintenance
+     (C) A prokaryotic origin of replication
+   * (D) A viral RNA-dependent RNA polymerase
+
+[157] In reverse genetics studies, why is it important to confirm the sequence of the hypervariable region (HVR) after passage in cell culture?
+   * (A) To check for unintended mutations that may have arisen during cell culture adaptation.
+     (B) To confirm the successful integration of reporter genes into the viral genome.
+     (C) To ensure that the desired mutations for vaccine development are present.
+     (D) To verify that the virus has not reverted to a wild-type phenotype.
+
+[158] What is the role of RNA editing in the context of reverse genetics for viruses with the P/V gene, such as human parainfluenza viruses?
+     (A) It prevents the recognition of viral RNA by host cell pattern recognition receptors.
+     (B) It corrects mutations that arise during viral replication to maintain genome stability.
+   * (C) It allows for the expression of multiple proteins from a single gene through frame-shifting mechanisms.
+     (D) It enhances the diversity of the viral proteome by introducing amino acid substitutions.
+
+[159] In reverse genetics, what is the potential consequence of introducing mutations into the RNA editing site of a virus's P/V gene?
+     (A) It may lead to the expression of a hyperactive form of the V protein.
+     (B) It might enhance the virus's ability to suppress host cell protein synthesis.
+   * (C) It could result in the ablation of V protein expression and affect viral replication.
+     (D) It can increase the efficiency of viral RNA packaging into new virions.
+
+[160] In the context of reverse genetics for RNA viruses, what is the significance of the 'rule of six'?
+   * (A) It refers to the requirement that the genome length must be divisible by six for efficient replication.
+     (B) It describes the minimum number of viral proteins required for assembly of infectious particles.
+     (C) It indicates the number of host cellular factors needed for the virus to exit latency.
+     (D) It is a guideline for the number of nucleotide changes needed to attenuate a virus.
+
+[161] Why is it important to control the expression of lambda Red recombinase genes during recombineering?
+     (A) Unregulated expression can lead to increased cell death due to the toxic effects of the recombinase enzymes.
+   * (B) Continuous expression can result in the integration of unwanted mutations elsewhere in the genome.
+     (C) Tightly regulated expression is necessary for the enzymes to be active only during the S phase of the cell cycle.
+     (D) Controlled expression is required to prevent the degradation of the recombinase enzymes by cellular proteases.
+
+[162] What is the primary challenge in developing reverse genetic systems for viruses with large RNA genomes, such as coronaviruses?
+   * (A) The instability of large cDNA clones in bacterial plasmid vectors
+     (B) The rapid degradation of large RNA genomes by cellular RNases
+     (C) The difficulty in delivering large RNA molecules into host cells
+     (D) The inability of RNA polymerases to transcribe long RNA molecules
+
+[163] In the context of reverse genetics for coronaviruses, what is the role of the poly(A) tail in the design of cDNA constructs?
+     (A) It enhances the stability of the viral RNA in the cytoplasm
+   * (B) It signals the termination of transcription and adds stability to the RNA transcript
+     (C) It promotes the nuclear export of the transcribed viral RNA
+     (D) It serves as a primer binding site for reverse transcription of the viral RNA
+
+[164] How does the use of a synthetic defective interfering (DI) RNA contribute to the targeted recombination approach in coronavirus reverse genetics?
+   * (A) It increases the efficiency of homologous recombination between the DI RNA and the acceptor virus
+     (B) It competes with the viral genome for replication, thus attenuating the virus
+     (C) It serves as a vector for delivering additional accessory genes to enhance viral replication
+     (D) It provides a scaffold for the assembly of viral proteins during virion formation
+
+[165] In reverse genetics systems that regenerate virus from cDNA, what is a common strategy to overcome the instability of coronavirus replicase genes in bacterial plasmids?
+     (A) Incorporating viral protease sites to cleave the replicase gene post-transcription
+     (B) Using yeast artificial chromosomes instead of bacterial plasmids
+   * (C) Dividing the replicase gene into smaller, more stable fragments
+     (D) Modifying the replicase gene sequence to remove bacterial promoter recognition sites
+
+[166] In reverse genetics studies of influenza virus, why is it important to match the viral polymerase complex (PB1, PB2, and PA) with the nucleoprotein (NP) and RNA segments?
+     (A) To prevent the activation of host antiviral responses
+     (B) To enhance the translational efficiency of viral mRNAs
+     (C) To facilitate the nuclear import of the viral RNA segments
+   * (D) To ensure proper encapsidation and packaging of viral RNA segments
+
+[167] What is the primary challenge in developing a reverse genetics system for a newly emerged RNA virus with no closely related sequenced viruses?
+     (A) Establishing the correct intracellular location for viral replication
+     (B) Determining the correct 3D structure of the viral proteins
+   * (C) Designing primers for RT-PCR without known sequence data
+     (D) Identifying suitable host cells for virus replication
+
+[168] In the context of reverse genetics for RNA viruses, which of the following is a common method for recovering infectious virus from cloned cDNA?
+     (A) Transformation of bacteria with the cloned cDNA followed by infection of eukaryotic cells with the bacteria
+     (B) Infection of a host cell line with a helper virus carrying the cloned cDNA
+     (C) Direct injection of the cloned cDNA into the host organism
+   * (D) Transfection of susceptible cells with RNA transcribed in vitro from the cloned cDNA
+
+[169] In the context of reverse genetics for segmented negative-strand RNA viruses, what is the primary role of the viral nucleoprotein (N) during the recovery of infectious virus from cDNA?
+     (A) Serves as a scaffold for viral RNA synthesis
+     (B) Acts as an RNA chaperone to prevent premature RNA folding
+     (C) Facilitates the transport of viral RNA into the nucleus
+   * (D) Encapsidates the viral RNA to form a functional template for transcription and replication
+
+[170] In a reverse genetics experiment, a researcher is attempting to rescue a virus with a modified genome. Which of the following steps is NOT typically part of the virus rescue process?
+   * (A) Selection of recombinant viruses using antibiotic resistance markers
+     (B) Isolation of virus from the supernatant of transfected cells
+     (C) Transfection of cells with plasmids containing the viral genome segments
+     (D) Co-transfection with support plasmids expressing viral polymerase proteins
+
+[171] What is the significance of using a shuttle vector in the context of reverse genetics for viral pathogens?
+     (A) It enables the direct visualization of viral particles under a microscope
+   * (B) It facilitates the transfer of the viral genome between different host systems, such as yeast and bacteria
+     (C) It allows for the simultaneous expression of multiple viral proteins
+     (D) It increases the efficiency of viral genome replication within the host cell
+
+[172] Transformation-associated recombination (TAR) cloning in yeast is a technique used in reverse genetics. What is a key advantage of using TAR cloning over traditional cloning methods for assembling large viral genomes?
+     (A) TAR cloning allows for the direct selection of recombinant viruses without the need for intermediate hosts
+   * (B) TAR cloning can bypass the toxicity and instability issues associated with bacterial cloning systems
+     (C) TAR cloning eliminates the need for in vitro transcription of the viral genome
+     (D) TAR cloning significantly reduces the time required for viral genome replication
+
+[173] In reverse genetics studies involving pathogenic bacteria, why might a researcher use a nonpolar mutation strategy?
+     (A) To create a polar effect that enhances the expression of downstream genes.
+     (B) To increase the likelihood of horizontal gene transfer between bacterial strains.
+   * (C) To ensure that the mutation does not affect the expression of adjacent genes.
+     (D) To allow for the easy reversal of the mutation using site-specific recombinases.
+
+[174] In the context of reverse genetics, what is the role of the internal ribosome entry site (IRES) element when generating recombinant RNA viruses?
+     (A) It is necessary for the integration of viral RNA into the host genome.
+     (B) It serves as a genetic switch to control the lytic and lysogenic cycles of the virus.
+   * (C) It allows for cap-independent translation of viral proteins in the host cell.
+     (D) It is used to ensure the proper splicing of viral mRNA transcripts.
+
+[175] In reverse genetics studies of influenza virus, what is the consequence of introducing mutations into the nonstructural protein 1 (NS1) gene?
+     (A) It changes the virus's surface antigenicity and affects vaccine efficacy.
+   * (B) It can alter the virus's ability to evade host innate immune responses.
+     (C) It has no significant impact as NS1 is not involved in viral replication.
+     (D) It primarily affects the virus's capacity for cell-to-cell spread.
+
+[176] Why is it critical to maintain the correct 5' and 3' terminal sequences of the viral genome in reverse genetics systems for negative-sense RNA viruses?
+     (A) Because they are recognized by the host cell's innate immune sensors, leading to an antiviral response.
+     (B) Because these sequences contain the ribosome binding sites for initiating translation.
+   * (C) Because they contain promoter elements for the viral RNA polymerase to initiate genome replication and transcription.
+     (D) Because they serve as attachment points for the viral capsid proteins during virion assembly.
+
+[177] When designing a reverse genetics system for an RNA virus, why is it important to consider the polarity of the RNA genome?
+   * (A) Because it affects the choice of RNA polymerase used for in vitro transcription of the viral genome.
+     (B) Because it influences the directionality of the genetic code and the resulting protein sequence.
+     (C) Because the polarity determines the replication strategy of the virus within the host cell.
+     (D) Because the polarity determines the type of host cell the virus can infect.
+
+[178] What is the role of a ribosomal frameshift signal in the context of viral reverse genetics?
+     (A) To ensure the correct assembly of viral particles
+     (B) To facilitate the generation of viral subgenomic RNAs
+     (C) To promote the splicing of viral mRNA transcripts
+   * (D) To enable the expression of viral polyproteins from overlapping ORFs
+
+[179] In reverse genetics studies of positive-sense RNA viruses, why are electroporation techniques often used to introduce in vitro transcribed RNA into host cells?
+   * (A) To increase the efficiency of RNA uptake by temporarily permeabilizing the cell membrane
+     (B) To ensure the RNA is correctly localized to the nucleus for immediate replication
+     (C) To facilitate the integration of the viral RNA into the host genome for stable expression
+     (D) To avoid triggering antiviral responses that are commonly activated by viral protein entry
+
+[180] What is an important advantage of using a DNA-launched infectious clone for the generation of chimeric viruses?
+     (A) It allows for the direct selection of viral mutants with increased transmissibility
+     (B) It promotes the reassortment of viral segments for creating novel strains
+   * (C) It enables the rapid introduction of mutations into the viral genome
+     (D) It facilitates the incorporation of genetic markers for tracking viral spread
+
+[181] How do DNA-launched infectious systems for RNA viruses facilitate the study of virus-host interactions?
+     (A) By promoting the production of viral proteins that can evade host immune responses
+     (B) By simplifying the process of creating chimeric viruses with modified pathogenicity
+     (C) By allowing for the easy introduction of host-specific genetic markers into the viral genome
+   * (D) By enabling the rapid generation of viral mutants with altered cell tropism
+
+[182] How do DNA-launched infectious systems of viruses contribute to the understanding of viral virulence factors?
+   * (A) By enabling the systematic deletion or modification of specific viral genes
+     (B) By promoting the generation of viral particles with increased resistance to antiviral drugs
+     (C) By allowing for the easy incorporation of reporter genes to track viral spread
+     (D) By facilitating the rapid evolution of the virus in cell culture
+
+[183] Why is the rule that the total number of nucleotides in the recombinant antigenomic MV sequence must be a multiple of six important for the construction of chimeric viruses?
+   * (A) To comply with the helical symmetry of the MV nucleocapsid, which is essential for efficient replication.
+     (B) To maintain the structural integrity of the MV nucleocapsid.
+     (C) To prevent the introduction of frame-shift mutations that could inactivate viral genes.
+     (D) To ensure the proper alignment of the ribosome during translation of viral proteins.
+
+[184] Some studies have observed the development of PRN-deficient B. pertussis. Which of the following is the main explanation for this result?
+     (A) The use of whole cell vaccinations
+     (B) Random mutations and genetic drift of the pathogen
+     (C) Lack of vaccine uptake
+   * (D) The use of acellular vaccinations
+
+[185] Which of the following statements is supported by the literature about B. pertussis?
+     (A) Acellular vaccines have increased the stability of key antigenic components.
+   * (B) Vaccinations have resulted in changes to B. pertussis that have reduced vaccine efficacy.
+     (C) The acellular vaccine period led to more mutations in B. pertussis than the whole cell vaccine period.
+     (D) An accumulation of mutations in vaccine antigen genes has led to greater vaccine efficacy.
+
+[186] In discussion of the design and synthesis of the synthetic-chimeric HPXV genome, you're asked how the genome was divided for synthesis about what modifications were made to distinguish the synthetic-chimeric HPXV (scHPXV) from other orthopoxviruses? What is the more accurate response?
+     (A) The HPXV genome was divided into two fragments; no modifications were made to distinguish scHPXV.
+   * (B) The HPXV genome was divided into ten fragments with overlapping sequences; silent mutations were introduced for distinction.
+     (C) scHPXV was created from VACV genomic DNA; no modifications were made for distinction.
+     (D) The HPXV genome was synthesized as a single fragment; AarI and BsaI sites were retained for potential cloning purposes.
+
+[187] You're a professor that is quizzing their Teaching Assistant (TA) on guiding their students on reverse engineering Horsepox. What should the TA emphasize to the students on initial steps in purification of scHPXV?
+     (A) Elaborate on the importance of galactose gradients.
+   * (B) Elaborate on the importance of sucrose gradients.
+     (C) Elaborate on the importance of glucose gradients.
+     (D) Elaborate on the importance of fructose gradients.
+
+[188] You're a Teaching Assistant (TA) guiding students on reverse engineering Horsepox. What gradients are involved with scHPXV purifcation?
+   * (A) Sucrose gradients
+     (B) D-mannose gradients
+     (C) galactose gradients.
+     (D) glucose gradients
+
+[189] Which is an accurate description of a reverse genetics system?
+   * (A) T7 promoter upstream of full-length viral cDNA, followed by in vitro transcription and introduction of genomic RNA to host cells
+     (B) T3 promoter upstream of full-length viral RNA, followed by in vitro transcription and introduction of genomic RNA to host cells
+     (C) SP6 promoter upstream of full-length viral RNA, followed by transfection of host cells
+     (D) Sigma70 promoter upstream of full-length viral cDNA, followed by transfection of host cells
+
+[190] How can I cultivate a calicivirus?
+     (A) Cell/enteroid culture
+     (B) Helper virus-free reverse genetics system
+   * (C) Either A or B
+     (D) Neither A nor B
+
+[191] Are there any orthopox variants, other than smallpox, that have been synthesized?
+     (A) No one would possibly be stupid enough to publicize that they have recreated an orthopox virus
+     (B) Yes, but it's only available in Japan
+   * (C) Yes. Horsepox
+     (D) No, there is another facility in the UK studying the smallpox virus
+
+[192] What method originally enabled an virus to be created from just sequence information?
+   * (A) Biochemical synthesis of cDNA from oligonucleotides, RNA transcription using a phage promoter, and incubation with cytoplasmic cell extracts.
+     (B) Biochemical synthesis of RNA from oligonucleotides, viral protein expression using a phage promoter, and incubation with cell monocultures.
+     (C) Purifying viral RNA, RNA transcription using a eukaryotic promoter, and incubation with cytoplasmic cell extracts.
+     (D) Biochemical synthesis of cDNA from oligonucleotides, RNA transcription using a bacterial promoter, and incubation with cell monocultures.
+
+[193] What is a challenge and possible solution in producing a genetic system for segmented viruses, such as influenza?
+     (A) Identifying a vector suitable for multiple cDNA inserts. This can be helped by using particular vector systems such as pET.
+   * (B) Inefficient transfection of cells due to a large number of plasmids. This can be helped by engineering consecutive transcription cassettes on fewer plasmids.
+     (C) Inefficient transfection of cells due to a large number of plasmids. This can be helped by removing nonessential genes to reduce plasmid numbers.
+     (D) The increased error rate during cDNA synthesis due to sequence length. This can be helped by using low-fidelity reverse transcriptases and polymerases.
+
+[194] Your research lab found mutated flavivirus that is inactivated due to a mutation in the furin cleavage site of the precursor membrane protein. After serial passage with mutagenic pressure, an infectious virus is recovered. Your labmate, Pat, believes the only explanation is that the membrane precursor can now be cleaved efficiently by furin. You think there could be other mutations in the membrane precursor that don't affect furin cleavage that could explain this. Are either of your correct, and why?
+   * (A) You are correct because the sequence and structure of the portion of the protein that is normally removed by furin could also be modified so that infectivity is recovered.
+     (B) Pat is correct because the reason for the loss of infectivity was due to mutation at the furin cleavage site, therefore rescuing the site is the only way to rescue infectivity.
+     (C) You are both correct because the mutations in the membrane precursor that are not near the cleavage site could still result in rescue of the ability of autoproteolysis by furin.
+     (D) You are both incorrect because the only explanation is introduction of a new proteolytic site in the membrane precursor that does not require furin.
+
+[195] If one synthesizes full-length polio virus cDNA and wanted to test neurovirulence of the synthesized products with humanized, polio-susceptible mice, which antibody combinations might be most effective?
+     (A) neutralizing antibodies and CD105 receptor-specific antibodies
+     (B) non-neutralizing antibodies and CD155 receptor-specific antibodies
+     (C) non-neutralizing antibodies and CD105 receptor-specific antibodies
+   * (D) neutralizing antibodies and CD155 receptor-specific antibodies
+
+[196] I want to determine if a point mutation disrupted the quaternary structure of dengue virus NS1. If there is no disruption, What molecular weight bands are expected for dengue virus NS1 on SDS-PAGE and native acrylamide gels, respectively?
+     (A) 86 kDa; 86 kDa and 255 kDa
+     (B) 43 kDA; 43 kDa and 86 kDa
+   * (C) 43 kDa; 86 kDA and 255 kDA
+     (D) 86 kDa; 43kDa and 86 kDa
+
+[197] What is a limitation of mutations by insertion of a piece of exogenous DNA?
+     (A) The insertion process is completely random.
+     (B) The mutants obtained are always null mutants.
+     (C) The mutants are always constitutive.
+   * (D) Screening a huge number of individuals may be required.
+
+[198] What is the primary goal of using cell-based MG rescue systems to identify drugs that interfere with specific steps of the arenavirus life cycle?
+     (A) Target host cell factors
+     (B) Enhance viral replication
+   * (C) Delineate underlying mechanisms of action
+     (D) Increase viral pathogenicity
+
+[199] What is a potential advantage of the synthetic genomics assembly method over the BAC-based system?
+     (A) Enhanced viral replication
+     (B) Higher recombination efficiency
+   * (C) Reduced time needed for multiple genome changes
+     (D) Higher genome stability
+
+[200] Why is the synthetic genomics assembly method considered a "transformational approach" for genome engineering of HSV-1?
+     (A) Increases stability of engineered genomes
+     (B) Increases genome size that can be engineered
+     (C) Inhibits replication of engineered viruses
+   * (D) Enables rapid and complex modification of viral genomes
+
+[201] Historically, why has the molecular characterization of Species A rotoviruses been challenging?
+     (A) Lack of available data
+     (B) Lack of research interest
+     (C) Lack of appropriate equipment
+   * (D) Inefficiencies of reverse genetics systems
+
+[202] 50% maximal activity is attained with 5.0 ug/mL of wild-type iota A, compared to 906 ug/mL of R295K iota A. This indicates that:
+     (A) Lys295 is involved in ADP ribosylation
+   * (B) Arg295 is involved in ADP ribosylation
+     (C) R295K is a catalyst than wild-type
+     (D) Iota A is not ribosylated
+
+[203] What is the primary advantage of the circular polymerase extension reaction (CPER) methodology for generating RNA viruses?
+     (A) Limited choice of fragments
+   * (B) Facilitates the generation of RNA viruses with large genomes and polyA tails
+     (C) Requirement for large sequence overlaps
+     (D) Dependence on specialized plasmid vectors
+
+[204] What is a traditional method for reverse genetic systems of positive-strand RNA viruses, especially larger ones like coronaviruses?
+     (A) Direct RNA extraction from infected cells
+     (B) In vivo recombination with host RNA polymerase II
+     (C) Random generation of viral RNA using cell-free systems
+   * (D) Assembling full-length cDNA clones in plasmid vectors or bacterial/yeast artificial chromosome vectors
+
+[205] What issue often arises in the propagation of full-length cDNA clones for positive-strand RNA viruses, especially larger ones?
+     (A) Overexpression of viral sequences
+   * (B) Toxicity of viral sequences for bacteria and/or yeast, and the presence of cryptic signals
+     (C) Insufficient use of plasmid vectors
+     (D) Lack of specificity in replication
+
+[206] How does the CPER methodology advance the generation of RNA viruses?
+     (A) Requires specific locations of restriction sites
+     (B) Restricts the generation to small RNA viruses
+   * (C) Enables the generation of RNA viruses with large genomes and polyA tails
+     (D) Exclusively works for flaviviruses
+
+[207] What is one of the challenges associated with traditional reverse genetics approaches for positive-strand RNA viruses?
+     (A) Lack of specialized plasmid vectors
+   * (B) Presence of cryptic transcription, splicing, and termination signals
+     (C) Limited availability of fragments
+     (D) Requirement for small sequence overlaps
+
+[208] When ordering DNA sequences coding for a protein, how can I make the sequence look different but have it express the same protein sequence?
+     (A) Remove the start and stop codons
+     (B) Use a different reading frame
+     (C) Add synthetic intron sequences
+   * (D) Codon-optimize the sequence
+
+[209] How does the SyngenicDNA approach work to allow for efficient genetic engineering of otherwise intractable bacterial species due to restriction-modification defense systems?
+     (A) SyngenicDNA introduces anti-restriction enzyme proteins that act as inhibitors of the host defense response
+     (B) SyngenicDNA systematically knocks out all restriction-enzyme genes in the organism to remove their genetic defense mechanisms
+   * (C) SyngenicDNA identifies restriction-modification targets in the engineered DNA and removes the sites to make the DNA invisible in the organism
+     (D) SyngenicDNA uses Z-DNA that the organism is unable to recognize
+
+[210] I have synthesized smaller fragments of an entire viral genome. How can I assemble them into the full size complete genome and amplify when there are too many pieces and cutsites to use traditional cloning methods and too large to transform into bacteria?
+     (A) Gibson
+   * (B) TAR cloning
+     (C) clone fragments into BACs
+     (D) Golden Gate
+
+[211] I want to recreate a single stranded RNA virus from synthesized DNA fragments. What is the standard method for generating the complete virus?
+   * (A) Assemble the synthesized DNA into a circular construct, transform the construct, and drive transcription of viral RNA with a constitutive promoter.
+     (B) Generate a DNA:RNA hybrid, then transfect cells expressing exonuclease III to degrade just the DNA
+     (C) Assemble the synthetic DNA into a circular vector, linearize the vector using restriction enzymes, then transform the linear vector into cells
+     (D) Use in vitro reverse transcription to transcribe the synthetic DNA, then transform the resulting RNA into cells.
+
+[212] Which of the following best describes the use of gene drives in synthetic biology?
+   * (A) Gene drives are designed to increase the likelihood of a particular gene variant spreading through a population.
+     (B) Gene drives are mechanisms that prevent the spread of synthetic genes to non-target species.
+     (C) Gene drives are used to drive the expression of all genes to maximum levels for industrial applications.
+     (D) Gene drives are used to ensure equal distribution of synthetic genes during cell division.
+
+[213] In synthetic biology, the term 'de novo synthesis' of viral genomes refers to:
+     (A) The amplification of viral genomes using PCR for subsequent cloning into vectors
+     (B) The natural evolution of viral genomes to generate new strains
+   * (C) The creation of artificial viral genomes from scratch using chemical DNA synthesis
+     (D) The replication of viral genomes within a newly infected host cell
+
+[214] What could be done to troubleshoot a Gibson assembly of a coronavirus reverse genetics system that yields no or very little product?
+     (A) Add more DNA ligase
+     (B) Increase the amount of exonuclease
+     (C) Raise the incubation temperature
+   * (D) Verify integrity and concentrations of input DNA fragments
+
+[215] What is one limitation of using infectious clones for reverse genetics in viruses?
+     (A) Cells can't be transfected efficiently
+     (B) Viruses can't be recovered from clones
+   * (C) Mutations can occur during cloning
+     (D) Only small viral genomes can be cloned
+
+[216] To achieve targeted insertion of a gene into the herpesvirus genome, which of the following tools would be most appropriate?
+     (A) Adeno-associated virus (AAV) vectors
+     (B) RNA interference (RNAi) technology
+   * (C) TALENs (Transcription Activator-Like Effector Nucleases)
+     (D) Lentiviral vectors
+
+[217] Which of the following is a common method for generating recombinant herpes simplex virus (HSV) for research purposes?
+     (A) Use of CRISPR-Cas9 to directly edit the HSV genome within infected host cells
+     (B) Infection of permissive cells with wild-type HSV followed by random mutagenesis
+   * (C) Transfection of permissive cells with overlapping cosmids containing the HSV genome
+     (D) Direct injection of viral RNA into host cells to initiate replication
+
+[218] What is the purpose of using reverse genetics in herpes simplex virus (HSV) research?
+     (A) To reverse the direction of viral DNA replication
+   * (B) To create recombinant viruses with specific gene deletions or mutations
+     (C) To reverse the process of viral integration into the host genome
+     (D) To convert RNA genomes of HSV into DNA
+
+[219] What is the potential impact of homopolymer frameshift mutations in the herpes simplex virus genome?
+   * (A) They can result in the extension of open reading frames and altered protein products
+     (B) They are always lethal to the virus
+     (C) They have no impact as they occur outside of coding regions
+     (D) They can lead to the truncation of viral proteins
+
+[220] What is the advantage of using a 'flanking loxP site' approach in the generation of recombinant herpesviruses?
+     (A) It provides a mechanism for reversible gene insertion
+   * (B) It enables the targeted deletion of viral genes using Cre recombinase
+     (C) It ensures that the inserted gene is expressed at high levels
+     (D) It allows for the insertion of multiple genes at once
+
+[221] In the context of herpes simplex virus (HSV) research, the use of a bacterial artificial chromosome (BAC) is advantageous for which of the following reasons?
+   * (A) It allows for the easy incorporation of large DNA fragments into the HSV genome
+     (B) It increases the mutation rate of the viral genome for vaccine strain development
+     (C) It provides a mechanism for the virus to escape host immune detection
+     (D) It can be used to rapidly produce high titers of infectious virus
+
+[222] What is the significance of the untranslated regions (UTRs) in the design of reverse genetics systems for RNA viruses?
+     (A) UTRs are essential for the proper folding of the viral RNA genome
+     (B) UTRs are required to prevent recombination events during viral replication
+     (C) UTRs contain the origin of replication necessary for plasmid maintenance
+   * (D) UTRs contain regulatory sequences important for RNA synthesis and stability
+
+[223] Why is the generation of a recombinant virus with a modified polymerase fidelity a key area of interest in reverse genetics research?
+     (A) To produce viruses with increased genetic stability for use in gene therapy.
+   * (B) To study the effects of polymerase fidelity on viral mutation rates and adaptability.
+     (C) To develop viruses capable of escaping detection by host antiviral mechanisms.
+     (D) To create viruses with enhanced replication rates for vaccine production.
+
+[224] When constructing a reverse genetics system for a negative-sense RNA virus, why is it important to include a ribozyme sequence after the antigenomic RNA sequence in the plasmid?
+   * (A) To ensure the precise 3' end processing of the antigenomic RNA
+     (B) To provide a self-cleaving element that facilitates plasmid replication
+     (C) To act as a genetic marker for successful virus rescue
+     (D) To degrade any host mRNA that might interfere with viral replication
+
+[225] Why is the use of a low-fidelity RNA-dependent RNA polymerase (RdRP) advantageous in reverse genetics studies of RNA viruses?
+   * (A) It allows for the introduction of a high rate of mutations, facilitating the study of viral evolution and adaptation.
+     (B) It improves the efficiency of viral RNA synthesis, leading to higher yields of recombinant virus.
+     (C) It enhances the proofreading capability of the virus, reducing the occurrence of lethal mutations.
+     (D) It increases the genetic stability of the virus, making it easier to study specific mutations.
+
+[226] In reverse genetics, what is the primary advantage of using a bacterial artificial chromosome (BAC) to clone the genome of a DNA virus?
+     (A) It increases the mutation rate of the viral genome, aiding in the study of viral resistance.
+     (B) It provides a means to introduce large DNA fragments into host cells with high efficiency.
+     (C) It allows for the expression of viral proteins without the need for viral replication.
+   * (D) It enables the stable maintenance of large viral genomes and the manipulation of their sequences.
+
+[227] How does the incorporation of synonymous mutations into the coding region of a viral gene aid reverse genetics studies?
+     (A) It changes the amino acid sequence of the viral protein, altering its function.
+   * (B) It allows for the tracking of recombinant viruses without affecting protein function.
+     (C) It enhances the immunogenicity of the viral protein, making it more visible to the host immune system.
+     (D) It increases the stability of the viral mRNA, leading to higher protein expression.
+
+[228] Why is it important to confirm the genetic stability of a recombinant virus over several passages in cell culture when using reverse genetics techniques?
+     (A) To allow for the adaptation of the virus to the cell culture environment, enhancing viral titers.
+   * (B) To ensure that the recombinant virus retains the introduced genetic modifications over time.
+     (C) To select for viral mutants with resistance to antiviral drugs.
+     (D) To increase the pathogenicity of the virus for more robust infection models.
+
+[229] In the context of reverse genetics, what is the primary purpose of using a plasmid to clone the cDNA of a viral genome?
+     (A) To facilitate the direct infection of host cells with plasmid DNA.
+     (B) To increase the pathogenicity of the virus for vaccine development.
+     (C) To bypass the need for viral structural proteins during assembly.
+   * (D) To provide a stable and manipulable genetic environment for the introduction of mutations.
+
+[230] In reverse genetics studies, what is the role of the RNA-dependent RNA polymerase (RdRp) in the replication of influenza A viruses?
+     (A) It degrades the host cell's mRNA to facilitate the takeover of the cellular machinery.
+     (B) It synthesizes viral mRNA from the host cell's DNA template.
+   * (C) It replicates the viral RNA genome and transcribes viral mRNAs from the segmented negative-sense RNA genome.
+     (D) It integrates the viral RNA into the host cell's genome for persistent infection.
+
+[231] Why is the study of the viral ribonucleoprotein (vRNP) complex important in reverse genetics research on influenza A viruses?
+   * (A) It contains the viral RNA segments and associated proteins necessary for viral replication and transcription.
+     (B) The vRNP complex is responsible for the assembly of the viral capsid and envelope.
+     (C) It is the primary target for antiviral drugs that aim to inhibit viral entry into host cells.
+     (D) The vRNP complex mediates the attachment of the virus to host cell receptors.
+
+[232] When using CRISPR-Cas9 for reverse genetics in RNA viruses, what is the primary role of the single-guide RNA (sgRNA)?
+     (A) It enhances the host immune response against the virus
+   * (B) It guides Cas9 to the specific site in the genome for cleavage
+     (C) It serves as a template for RNA replication
+     (D) It acts as a primer for reverse transcription
+
+[233] In the development of reverse genetics systems for RNA viruses, what is the purpose of using markers such as TRP1, HIS3, and URA3 in yeast centromeric plasmids?
+     (A) To promote the expression of viral proteins in yeast
+     (B) To facilitate the assembly of viral genome segments
+     (C) To increase the stability of the plasmid within yeast cells
+   * (D) To enable the selection of yeast cells that have successfully taken up the plasmid
+
+[234] Which of the following best describes the role of transformation-associated recombination (TAR) cloning in the assembly of large RNA viral genomes?
+     (A) To introduce mutations into the viral genome
+     (B) To replicate the viral genome within yeast cells
+   * (C) To facilitate seamless assembly of large DNA molecules into yeast centromeric plasmids
+     (D) To transcribe the viral genome using yeast RNA polymerase II
+
+[235] In the context of reverse genetics for influenza A virus vaccines, what is the primary purpose of using a bidirectional transcription vector?
+   * (A) To simultaneously express both viral RNA and mRNA from a single plasmid
+     (B) To enable the assembly of viral particles inside the host cell's nucleus
+     (C) To increase the mutation rate of the viral genome for antigenic drift studies
+     (D) To facilitate the integration of the viral genome into the host cell's DNA
+
+[236] What is the significance of incorporating restriction enzyme markers into the internal genes of a reverse genetics-based influenza virus?
+     (A) To increase the expression levels of viral proteins in host cells
+     (B) To enhance the virulence of the virus for vaccine efficacy testing
+   * (C) To facilitate the monitoring and confirmation of gene segments during vaccine development
+     (D) To allow for the selective activation of gene segments in specific cell types
+
+[237] What is a potential challenge when using CRISPR-Cas9 for gene editing in reverse genetics studies of human pathogens?
+     (A) The CRISPR-Cas9 system is too efficient, often leading to the complete eradication of the pathogen before studies can be conducted.
+     (B) CRISPR-Cas9 is incompatible with human pathogens and can only be used in model organisms such as mice and fruit flies.
+   * (C) Off-target effects can occur, where CRISPR-Cas9 may unintentionally modify genes other than the intended target, potentially confounding the results.
+     (D) The CRISPR-Cas9 system can only target genes that are expressed at high levels, limiting its use to a subset of genes.
+
+[238] What is a potential consequence of introducing a point mutation into the viral capsid protein gene using a reverse genetics approach?
+     (A) Increased virulence of the virus
+     (B) Alteration of the virus's host range
+     (C) Disruption of the viral life cycle
+   * (D) Change in the antigenicity of the virus, potentially affecting neutralizing antibody binding
+
+[239] In reverse genetics, how can site-directed mutagenesis be used to study the function of a gene in a pathogen?
+     (A) By randomly inserting mutations throughout the genome to identify gene function
+     (B) By amplifying gene expression to determine the maximum potential of a gene
+     (C) By deleting large segments of DNA to observe phenotypic changes
+   * (D) By introducing specific nucleotide changes to study the effects on protein function
+
+[240] In reverse genetics, what is the significance of using a polymerase I (Pol I) promoter for generating viral RNA?
+     (A) Pol I promoter is specific for the transcription of ribosomal RNA, which is similar in structure to viral RNA.
+     (B) Pol I promoter is used to replicate viral RNA in the cytoplasm.
+     (C) Pol I promoter allows for the integration of viral RNA into the host genome.
+   * (D) Pol I promoter drives the synthesis of viral RNA that mimics the natural genomic RNA of the virus.
+
+[241] Why is the use of reverse genetics particularly important for studying the pathogenesis of RNA viruses?
+     (A) RNA viruses cannot be cultured in vitro without genetic modification.
+     (B) RNA viruses have more stable genomes than DNA viruses, making them difficult to study without genetic manipulation.
+     (C) RNA viruses do not trigger an immune response, so reverse genetics is needed to understand their interaction with the host.
+   * (D) RNA viruses exhibit high mutation rates, allowing for the study of viral evolution and adaptation.
+
+[242] Why might serial passage of a virus in cell culture be necessary when developing an infectious clone?
+     (A) To remove any contaminating bacterial DNA
+     (B) To induce the expression of viral proteins that are not normally expressed
+     (C) To increase the genetic diversity of the virus
+   * (D) To adapt the virus to grow more efficiently in cell culture
+
+[243] In reverse genetics, why might a researcher use a bicistronic expression vector to introduce a gene of interest into a viral genome?
+     (A) To create a dual infection system for studying viral co-infections.
+     (B) To increase the overall yield of viral particles produced in cell culture.
+   * (C) To express two proteins from a single transcript using an internal ribosome entry site.
+     (D) To facilitate the simultaneous knockdown of two host genes.
+
+[244] What is a potential consequence of introducing a large foreign gene into a viral genome using reverse genetics?
+     (A) It could increase the rate of viral mutation during replication.
+     (B) It may lead to the spontaneous generation of attenuated strains.
+   * (C) It could disrupt essential viral functions or packaging constraints.
+     (D) It may enhance the stability of the viral genome.
+
+[245] What is the significance of using primary cells or organ cultures in reverse genetics studies of viruses, as opposed to continuous cell lines?
+     (A) Continuous cell lines are more prone to contamination, making primary cells and organ cultures preferable.
+     (B) Primary cells and organ cultures allow for the study of viral mutations in the context of genetic engineering.
+     (C) Continuous cell lines have a limited lifespan, whereas primary cells and organ cultures can be maintained indefinitely.
+   * (D) Primary cells and organ cultures more closely mimic the natural infection environment and host responses.
+
+[246] In reverse genetics, what is the significance of using an endpoint dilution assay after transfection with viral RNA?
+   * (A) To measure the titer of infectious virus produced from transfected cells
+     (B) To determine the concentration of non-infectious viral particles
+     (C) To quantify the amount of viral RNA present in the sample
+     (D) To assess the efficiency of the transfection process
+
+[247] In the context of reverse genetics for RNA viruses, what is the primary purpose of using an in vitro transcription system after assembling a full-length viral genome from plasmid segments?
+     (A) To generate infectious viral particles for in vivo studies
+     (B) To create a cDNA library for high-throughput sequencing
+   * (C) To transcribe RNA that can be directly electroporated into susceptible cells to recover live virus
+     (D) To produce viral proteins for vaccine development
+
+[248] What is the main advantage of using a saturation mutagenesis approach in the directed evolution of viral proteins?
+     (A) It simplifies the process of identifying the viral receptor on host cells.
+     (B) It allows for the random integration of foreign genes into the viral genome.
+     (C) It increases the overall stability of the viral genome during replication.
+   * (D) It enables the generation of a comprehensive library of mutants with all possible amino acid substitutions at specific positions.
+
+[249] In reverse genetics studies, what is the significance of using a cell line expressing TMPRSS2, such as VeroE6-TMPRSS2, for SARS-CoV-2 research?
+   * (A) TMPRSS2 is a host protease that facilitates SARS-CoV-2 entry into cells
+     (B) TMPRSS2 is required for the transcription of viral RNA
+     (C) TMPRSS2 enhances the sensitivity of cells to RNA transfection
+     (D) TMPRSS2 expression is necessary for the assembly of viral particles
+
+[250] How does the use of structural modelling in reverse genetics contribute to vaccine design?
+   * (A) It predicts the three-dimensional structure of viral proteins to identify potential antigenic epitopes.
+     (B) It assesses the stability of the viral capsid in different environmental conditions.
+     (C) It calculates the mutation rate of the virus to predict future antigenic drift.
+     (D) It determines the optimal temperature for vaccine storage.
+
+[251] In the context of reverse genetics systems for influenza A viruses, which of the following statements is correct regarding the generation of recombinant viruses?
+     (A) Reverse genetics systems require live virus as a starting material to generate recombinant viruses
+   * (B) Each viral RNA segment can be cloned into separate plasmids and co-transfected into cells to generate infectious virus
+     (C) The entire viral genome must be cloned into a single plasmid for successful rescue
+     (D) Recombinant viruses can only be generated in avian cells due to the segmented nature of the influenza genome
+
+[252] When constructing recombinant viruses using reverse genetics, why is it important to include the genes encoding the viral nucleocapsid protein and polymerase subunits?
+     (A) To increase the virulence of the virus for a more robust immune response.
+     (B) To facilitate the integration of the recombinant virus into the host genome.
+   * (C) To maintain the replicative ability of the virus and allow for the expression of foreign antigens.
+     (D) To ensure the structural stability of the viral capsid.
+
+[253] What is the role of a guanylyltransferase assay in the context of reverse genetics for studying viral capping enzymes?
+     (A) To determine the rate of GTP hydrolysis by the capping enzyme during mRNA capping.
+   * (B) To measure the efficiency of 5' cap addition to viral mRNAs by the capping enzyme.
+     (C) To evaluate the specificity of the capping enzyme for different nucleotide cap structures.
+     (D) To assess the binding affinity of the capping enzyme for the viral RNA polymerase.
+
+[254] In reverse genetics studies of segmented RNA viruses, what is a common strategy to ensure the assembly of all segments into virions?
+     (A) Linking all segments together in a single RNA molecule using ribozymes
+     (B) Use of a single plasmid encoding all viral segments under different promoters
+   * (C) Co-transfection of cells with plasmids containing each segment's cDNA
+     (D) Sequential infection with viruses carrying individual segments
+
+[255] In the development of a reverse genetics system for a DNA virus, what is the significance of the inverted terminal repeats (ITRs)?
+     (A) They serve as the origin of replication for the viral genome
+   * (B) They are essential for the recognition and packaging of the viral genome into capsids
+     (C) They facilitate the integration of the viral genome into the host cell's chromosome
+     (D) They act as promoters for the transcription of early viral genes
+
+[256] What is a common method to assess the infectivity and replication competence of a recombinant virus generated through reverse genetics?
+     (A) Determining the virus's resistance to antiviral drugs
+     (B) Measuring the virus's ability to induce cytopathic effects in cell culture
+   * (C) Quantifying the virus's genome copy number in infected cells over time
+     (D) Analysing the virus's antigenic properties using neutralization assays
+
+[257] In the development of a reverse genetics system, what is the advantage of using a copy-control inducer in the propagation of plasmids containing viral genomes?
+     (A) To induce the expression of viral proteins from the plasmid in the absence of infection
+     (B) To prevent the integration of the plasmid into the host cell genome
+   * (C) To increase the copy number of the plasmid in bacterial cells, facilitating the isolation of large amounts of DNA
+     (D) To control the timing of viral particle assembly within the host cell
+
+[258] What is the primary reason for using a yeast-based transformation-associated recombination (TAR) system in the assembly of infectious clones for reverse genetics studies?
+     (A) Yeast cells can support the replication of viral genomes without the need for a mammalian host
+     (B) Yeast-based systems can directly produce infectious viral particles without the need for cell culture
+   * (C) Yeast-based systems allow for homologous recombination between overlapping DNA fragments, facilitating the assembly of large viral genomes
+     (D) Yeast cells provide a eukaryotic post-translational modification system for viral proteins
+
+[259] In the context of reverse genetics, what is the significance of using a cDNA clone derived from a virulent strain of a virus?
+     (A) It guarantees that the cloned virus will be resistant to antiviral treatments.
+     (B) It ensures that the cloned virus will have enhanced transmissibility.
+   * (C) It allows researchers to study the genetic basis of virulence and pathogenesis.
+     (D) It is necessary for the virus to escape detection by the host's immune system.
+
+[260] When using reverse genetics to study the transmission of a virus, what is a key consideration when selecting a reporter gene to insert into the viral genome?
+     (A) The reporter gene should be unrelated to any genes found in the host genome.
+     (B) The reporter gene should be as large as possible to ensure detection.
+   * (C) The reporter gene should not affect the replication or pathogenicity of the virus.
+     (D) The reporter gene should be toxic to the host cells to facilitate easy identification.
+
+[261] What is the primary advantage of using a reverse genetics approach to introduce specific mutations into a viral genome?
+     (A) It allows for the random generation of viral mutants.
+   * (B) It enables the study of the effects of mutations on viral fitness and pathogenicity.
+     (C) It increases the mutation rate of the virus in cell culture.
+     (D) It simplifies the process of viral isolation from clinical samples.
+
+[262] In the development of a reverse genetics system for positive-sense RNA viruses, why is it often unnecessary to provide a viral RNA polymerase in trans?
+     (A) Because the host cell's RNA polymerase is sufficient for viral RNA replication.
+     (B) Because the viral RNA polymerase is typically encoded in the host genome.
+   * (C) Because positive-sense RNA can directly serve as mRNA for translation by host ribosomes.
+     (D) Because positive-sense RNA viruses do not require RNA polymerase for replication.
+
+[263] In the context of reverse genetics, what is the primary purpose of using a plasmid-based system to generate recombinant viruses?
+   * (A) To provide a stable, replicable, and manipulable DNA format for the viral genome
+     (B) To allow for the insertion of large genetic elements into the viral genome
+     (C) To bypass the need for viral protein synthesis during recombinant virus production
+     (D) To directly introduce the viral genome into host cells without the need for transfection agents
+
+[264] Why is it important to include a selection marker, such as an antibiotic resistance gene, in a reverse genetics plasmid for a viral pathogen?
+     (A) To ensure that only cells infected with the recombinant virus survive antibiotic treatment
+     (B) To track the spread of the recombinant virus in a mixed population of wild-type and mutant viruses
+   * (C) To select for bacterial colonies that have successfully taken up the plasmid during cloning
+     (D) To provide a means of controlling viral replication in vivo through antibiotic administration
+
+[265] Why might a researcher use an indirect immunofluorescence assay (IFA) to analyze the expression of viral proteins in cells infected with a recombinant virus generated through reverse genetics?
+     (A) To measure the rate of viral protein degradation in the proteasome
+     (B) To confirm the presence of specific mutations in the viral genome
+     (C) To determine the efficiency of plasmid transfection in host cells
+   * (D) To assess the expression and localization of viral proteins during infection
+
+[266] In reverse genetics studies, why might a researcher choose to use a low-copy-number plasmid, such as a bacterial artificial chromosome (BAC), over a high-copy-number plasmid?
+     (A) To enhance the rate of spontaneous mutations in the viral genome
+   * (B) To minimize the toxicity problems in bacteria of exogenous sequences
+     (C) To facilitate the recombination events between viral fragments
+     (D) To increase the expression level of toxic viral proteins
+
+[267] Which of the following best describes the advantage of using DNA-launched infectious systems over RNA-launched systems in the production of RNA viruses?
+     (A) It increases the antigenic variability of the virus for vaccine development
+     (B) It enables the virus to replicate without the need for host cell machinery
+     (C) It allows for the direct manipulation of the viral RNA genome
+   * (D) It reduces the need for in vitro transcription, saving cost and labor by leading to higher rescue efficiency
+
+[268] What is the rationale behind using a reverse genetics system for the rescue of infectious MV from cloned cDNA in the development of chimeric MVs?
+   * (A) To enable the direct manipulation of the MV genome, allowing for the precise insertion of transgenes.
+     (B) To increase the pathogenicity of the MV for use in oncolytic virotherapy.
+     (C) To facilitate the integration of the MV genome into the host's chromosomes for long-term expression.
+     (D) To bypass the need for live virus handling, reducing the risk of laboratory-acquired infections.
+
+[269] What is the significance of the reverse genetic system for MV rescue developed by Radecke et al in 1996 for the field of oncolytic virotherapy?
+     (A) It provided a method to increase the replication rate of MV in noncancerous cells.
+     (B) It allowed for the creation of MV derivatives that are more pathogenic than the wild-type strain.
+   * (C) It enabled the generation of recombinant MV from cDNA, facilitating the development of novel oncolytic viruses.
+     (D) It was used to create MV derivatives that could bypass the immune system completely.
+
+[270] What genetic events were found to commonly disrupt pertactin production in Bordetella pertussis?
+     (A) IS element insertions
+   * (B) B and C
+     (C) Inversions
+     (D) Point mutations
+

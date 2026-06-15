@@ -1,0 +1,282 @@
+[0] Which of the following sets of microbes are most likely to cause infection when grown in a laboratory?
+     (A) Human Immunodeficiency Virus-1 (HIV-1), Yersinia pestis, Ebola virus
+     (B) Hepatitis A virus (HAV), Corynebacteria diphtheriae, Human cytomegalovirus (HCMV)
+     (C) Human herpesvirus-6 (HHV-6), Rickettsia rickettsii, Human T-lymphotropic virus (HTLV)
+   * (D) Crimean-Congo Hemorrhagic Fever Virus (CCHFV), Brucella spp, Venezuelan Equine Encephalitis Virus (VEEV)
+
+[1] In explaining the known methods for the reactivation of poxviruses, can you tell how a cell infected with one poxvirus reactivates a second virus, and what conditions favor this reactivation?
+     (A) Poxviruses reactivate when transfected into different cells; damaged particles are not necessary for reactivation.
+     (B) Poxvirus reactivation occurs spontaneously in cells; the host range is irrelevant to this process.
+     (C) Poxviruses are reactivated through transfected cells; the DNA of the second virus must be intact.
+   * (D) A cell infected with one poxvirus can reactivate a second virus if the second virus particles are damaged or if its DNA is extracted.
+
+[2] Which activities have been found in lymphostatin/EFA-1 gene sequences?
+     (A) Glycosyltransferase and Kinase
+     (B) Aminotransferase and Kinase
+     (C) Cysteine protease and Phosphatase
+   * (D) Cysteine protease and Glycosyltransferase
+
+[3] The SARS-CoV2 responsible for COVID19 pandemic most likely originated from
+     (A) RaTG13 from Bats
+     (B) GD-Pangolin-CoV from Pangolin
+   * (C) A chimera of RaTG13 from bat and GD-Pangolin-CoV from Pangolin
+     (D) None of the above
+
+[4] What differentiates type VI secretion systems from other contractile injection systems?
+     (A) Most contractile injection systems are specific to target only eukaryotic cells, while type VI secretion systems target only bacterial cells.
+     (B) When effectors are injected into the target cell, most contractile injection systems stays inside the organism, which is not true for type VI secretion systems.
+     (C) Type VI secretion systems are specific to target only eukaryotic cells, while other contractile injection systems target only bacterial cells.
+   * (D) When effectors are injected into the target cell, type VI secretion systems stays inside the organism, which is not true for other contractile injection systems.
+
+[5] Which class of mammalian proteins is not implicated in lethal inflammatory responses?
+   * (A) myosin
+     (B) cytokines
+     (C) chemokines
+     (D) galectins
+
+[6] Which co-infections have the highest mortality rate?
+     (A) Influenza A and SARS-Cov-2
+     (B) HIV and Candida auris
+     (C) Candida auris and Influenza A
+   * (D) Mortality rates of above co-infections are too close to rank with current data
+
+[7] In order to reach the alveoli, what is the average size that aerosolized particles should be?
+     (A) 1.2µm
+     (B) 2.33µm
+     (C) 0.22µm
+   * (D) 0.65µm
+
+[8] What can cause prion protein misfolding that results in neurodegeneration?
+     (A) streptococcal pharyngitis
+   * (B) influenza A virus
+     (C) diabetes
+     (D) pyruvate kinase deficiency
+
+[9] What is the major driver of the highly transmissible nature of the SARS-CoV-2 Omicron variant?
+   * (A) Spike (S) protein
+     (B) Receptor-binding motif (RBM)
+     (C) Nucleocapsid (N) protein
+     (D) Ancestral SARS-CoV-2 isolate backbone
+
+[10] Why is an HPXV-based vaccine considered as a potential alternative to modern VACV vaccines?
+     (A) Concerns about horsepox extinction
+     (B) Availability of HPXV specimens
+   * (C) Concerns about the toxicity of modern VACV vaccines
+     (D) Lack of similarities between VACV and HPXV
+
+[11] How does Influenza NS1 contribute to host shut-off and impair intracellular immune mechanisms to the virus?
+     (A) NS1 cleaves MAVS to impair type I interferon signals
+     (B) NS1 cleaves the elF4G factor to reduce translation
+   * (C) NS1 impairs RNA polyadenylation and 3' cleavage
+     (D) NS1 cleave sialic acid groups to release virus and blunt glycoproteins
+
+[12] In your experimental setup you have a rotating drum, a nebulizer, a HEPA filter, a relative humidty monitor, and a sampling port. For which of the following research is this setup most typical?
+     (A) Measuring the gas exchange rates of leaves
+   * (B) Studying the characteristics of viral bioaerosols
+     (C) Testing the dissolution rates of pharmaceuticals in gastrointestinal simulating fluids
+     (D) Investigating the long-term stability of paints and coatings
+
+[13] You want to store infectious 1918 influenza samples for about a week. What is minimum standard of cooling would ensure the viruses remain viable?
+   * (A) -20 degC
+     (B) -4 degC
+     (C) -80 degC
+     (D) 20 degC (room temperature)
+
+[14] You are generating infectious virus samples. Which of the following environmental factors would probably not be detrimental to the viability of the viruses?
+     (A) Using an ozone-based air cleaner in your lab space
+     (B) Stabilizing the culture media with alkylbenzene sulfonates
+   * (C) Freezing samples at -80 degC
+     (D) Exposing viral samples to sunlight
+
+[15] Which of the following genes, affected by a modern Beijing-specific SNP, is involved in Mycobacterium tuberculosis dormancy and has been shown to decrease immunopathology when lost?
+     (A) Rv2488c
+     (B) Rv3173c
+   * (C) Rv0386
+     (D) Rv0890c
+
+[16] How long did it take researchers to synthesize poliovirus in 2002?
+     (A) 1 year
+   * (B) 1 month
+     (C) 6 months
+     (D) 1 week
+
+[17] Considering the role of the SARS-CoV-2 spike protein's receptor-binding domain (RBD) in viral entry, which experimental approach would best determine the potential for vaccine escape mutations within the RBD?
+     (A) Assessment of RBD sequence variability in global SARS-CoV-2 isolates using next-generation sequencing.
+     (B) Computational modeling of RBD evolution under immune pressure to predict potential escape mutations.
+   * (C) In vitro selection of SARS-CoV-2 with neutralizing antibodies to identify resistant viral mutants.
+     (D) Structural analysis of RBD in complex with ACE2 using X-ray crystallography to identify conserved interaction sites.
+
+[18] Based on historical studies, which subtype of influenza virus exhibited the most severe histopathological changes in guinea pigs upon infection?
+     (A) Sw/GD/968/06 (H3N2)
+   * (B) Qa/HK/G1/97 (H9N2)
+     (C) BJ/317/09 (H1N1)
+     (D) Sw/GD/211/06 (H3N2)
+
+[19] What is the significance of the expression of both SAα2,3-Gal and SAα2,6-Gal receptors in the upper respiratory tract of guinea ?
+     (A) It indicates that guinea pigs can only be infected by avian influenza viruses.
+     (B) It demonstrates that guinea pigs have a lower susceptibility to influenza infection compared to other animal models.
+     (C) It suggests that guinea pigs are not suitable for studying human influenza virus transmission.
+   * (D) It reflects a similar anatomy to that of humans, making guinea pigs a suitable model for influenza transmission research.
+
+[20] Which of the following influenza A virus subtypes was responsible for the pandemic that occurred in 1968?
+     (A) H1N1
+   * (B) H3N2
+     (C) H5N1
+     (D) H2N2
+
+[21] Which of the following is a known function of the non-structural NS1A protein of influenza A virus?
+     (A) Acting as a viral receptor for host cell entry
+   * (B) Binding to and inhibiting the host's RNase L pathway
+     (C) Facilitating the fusion of the viral and cellular membranes
+     (D) Cleaving host cell pre-mRNAs to generate primers for viral RNA synthesis
+
+[22] In the context of host range and transmission of influenza viruses, which species is considered a potential 'mixing vessel' for interspecies spread due to the presence of both avian-type and mammalian-type virus receptors?
+     (A) Domestic waterfowl
+     (B) Chickens
+   * (C) Pigs
+     (D) Quail
+
+[23] To understand the mechanism behind Ebola virus-induced disseminated intravascular coagulation (DIC), which in vitro assay would be most informative?
+     (A) Assessment of platelet aggregation in response to Ebola virus-infected plasma
+     (B) Analysis of coagulation factor activity in plasma from Ebola virus-infected non-human primates
+   * (C) Measurement of thrombin generation in infected endothelial cell cultures
+     (D) Quantification of fibrin degradation products in Ebola virus-infected serum
+
+[24] What is a potential biosafety concern when handling SARS-CoV-2 genomic RNA in a laboratory setting?
+     (A) Handling RNA requires the use of live animals, posing ethical concerns
+     (B) Genomic RNA may integrate into the host genome causing mutations
+     (C) RNA is highly stable and can persist in the environment for long periods
+   * (D) Genomic RNA can be infectious if introduced into permissive cells
+
+[25] Which of the following techniques is commonly used to quantify the viral load of a poxvirus in a sample?
+     (A) Western blot analysis to detect viral envelope proteins
+     (B) Reverse transcription-polymerase chain reaction (RT-PCR) to amplify viral RNA segments
+     (C) Southern blot analysis to detect viral DNA integration into the host genome
+   * (D) Quantitative polymerase chain reaction (qPCR) to measure the amount of viral DNA
+
+[26] In 2021, what SARS-CoV-2 protein had the highest identity level with the antigenic proteins of common vaccines (including the BCG, OPV and MMR vaccines)?
+     (A) Nucleocapsid (N) protein
+   * (B) ORF3a protein
+     (C) Membrane (M) protein
+     (D) Spike (S) protein
+
+[27] Which of the following statements is true regarding the similarity between SARS-CoV-2 proteins and the main antigenic proteins of common vaccines (including the BCG, OPV and MMR vaccines)?
+     (A) Most similar segments were longer than five consecutive amino acids.
+     (B) All similar segments were longer than ten consecutive amino acids.
+   * (C) The majority of similar segments were shorter than five consecutive amino acids.
+     (D) No similar segments were identified in the comparison.
+
+[28] How does lipopolysaccharide from E. coli compare to that from Brucella?
+     (A) E. coli lipopolysaccharide is less toxic and more active than Brucella lipopolysaccharide
+     (B) E. coli lipopolysaccharide is more toxic and less active than Brucella lipopolysaccharide
+     (C) E. coli lipopolysaccharide is less toxic and less active than Brucella lipopolysaccharide
+   * (D) E. coli lipopolysaccharide is more toxic and more active than Brucella lipopolysaccharide
+
+[29] Which of these papers stimulated questions on dual use in the early 2000s, due to information within that could be used for malicious purposes?
+     (A) An explanation of the polio virus's ability to evade the immune system by Rosengard, 2000)
+     (B) Chemical synthesis of Variola Virus cDNA: generation of infectious virus in the absence of natural template (Church et al. 2002)
+     (C) An explanation of the variola virus's ability to evade the immune system by Rosengard, 2000)
+   * (D) Chemical synthesis of poliovirus cDNA: generation of infectious virus in the absence of natural template (Cello et al. 2002)
+
+[30] What animals are ancestor host reservoirs for Coronaviruses?
+     (A) Bats
+     (B) Camels
+     (C) Rodents
+   * (D) Both A and C
+
+[31] The lack of transmission of SARS-CoV 2 to avians can be attributed to which of the following?
+     (A) Avians are naturally immune to Coronaviruses
+     (B) Avians do not have a receptor for SARS-CoV2 to bind to
+     (C) Avians do not have close contact with SARS-CoV 2 hosts
+   * (D) Avian ACE2 receptor has a large number of variations in the functional sites that hinder binding with SARS-CoV-2 S protein
+
+[32] If a single-point mutant of diptheria toxin protein exhibits a kcat/Km of 2.2x10^3 M^-1 min^-1 for ADP-ribosylation of EF-2, compared to wild-type kcat/Km of 1.2x10^8 M^-1 min^-1, the following is true:
+   * (A) The residue that was mutated is important for the ribosylation activity of EF-2.
+     (B) The mutated diptheria toxin protein is a better catalyst of ribosylation than wild-type.
+     (C) EF-2 is the preferred substrate for diptheria toxin protein.
+     (D) The residue that was mutated is important for binding of ADP.
+
+[33] What immune response to viral infection does the 2'-methyltransferase protein Nsp16 inhibit during SARS-CoV-2 infection?
+     (A) Cytotoxic T cell viral clearance
+     (B) Type II interferon response
+     (C) Antigen presentation of viral peptides
+   * (D) Type I interferon response
+
+[34] Which of the following best describes the relationship between NS1 secretion levels and ZIKV infectivity in Aedes aegypti mosquitoes?
+   * (A) Higher NS1 secretion levels correlate with increased ZIKV infectivity in mosquitoes.
+     (B) Higher NS1 secretion levels correlate with decreased ZIKV infectivity in mosquitoes.
+     (C) Lower NS1 secretion levels are associated with increased ZIKV infectivity in mosquitoes.
+     (D) NS1 secretion levels have no impact on ZIKV infectivity in mosquitoes.
+
+[35] Which of the following herpesviruses is known to establish latency primarily in B cells?
+     (A) Human Cytomegalovirus (HCMV)
+   * (B) Epstein-Barr Virus (EBV)
+     (C) Varicella Zoster Virus (VZV)
+     (D) Herpes Simplex Virus 1 (HSV-1)
+
+[36] How does the persistent activation of the NLRP3 inflammasome by SARS-CoV-2 contribute to the pathogenesis of COVID-19?
+   * (A) It causes aberrant immune activation and cytokine storm, contributing to severe immunopathological conditions.
+     (B) It leads to reduced viral replication by enhancing the antiviral immune response.
+     (C) Persistent activation of NLRP3 inflammasome aids in the development of long-term immunity against the virus.
+     (D) It triggers autophagy, which promotes the survival of infected cells and prolongs the infection.
+
+[37] What is the potential impact of white-nose syndrome (WNS) on the susceptibility of little brown bats (Myotis lucifugus) to SARS-CoV-2 infection?
+     (A) WNS has no impact on the susceptibility of little brown bats to SARS-CoV-2
+   * (B) WNS may increase the susceptibility of little brown bats to SARS-CoV-2 due to immunomodulation during hibernation
+     (C) WNS decreases the susceptibility of little brown bats to SARS-CoV-2 by enhancing their immune response
+     (D) WNS only affects the susceptibility of little brown bats to SARS-CoV-2 when co-infected with Myl-CoV
+
+[38] How does the expression of angiotensin converting enzyme 2 (ACE2) in little brown bats relate to the potential for SARS-CoV-2 host susceptibility?
+     (A) Overexpression of ACE2 in little brown bats is correlated with increased viral shedding and transmission
+     (B) The absence of ACE2 expression in little brown bats indicates resistance to SARS-CoV-2 infection
+     (C) The presence of ACE2 in little brown bats is unrelated to SARS-CoV-2 infection risk
+   * (D) The efficient binding of SARS-CoV-2 spike protein to ACE2 in little brown bats supports the potential for host susceptibility
+
+[39] How does the presence of a divergent lineage of SARS-CoV-2 in Canadian white-tailed deer inform our understanding of viral evolution in wildlife?
+     (A) It confirms that SARS-CoV-2 evolution is exclusively a result of human-to-human transmission
+     (B) It demonstrates that wildlife species are not capable of sustaining long-term viral evolution
+   * (C) It indicates that wildlife can serve as a reservoir for significant viral evolution, potentially leading to new spillover events
+     (D) It suggests that viral evolution in wildlife is limited to minor genetic variations without significant impact on the virus's properties
+
+[40] Which of the following best describes the role of neutrophil extracellular traps (NETs) in the pathogenesis of COVID-19 and their potential as a therapeutic target?
+     (A) Inhibition of NET formation has been shown to exacerbate COVID-19 symptoms and increase viral load.
+     (B) NETs are protective structures that trap and neutralize SARS-CoV-2, thus inhibiting viral spread.
+     (C) NETs primarily function to promote tissue repair and regeneration in the lungs post-SARS-CoV-2 infection.
+   * (D) NETs contribute to the hyper-inflammatory state in COVID-19, correlating with severity and mortality.
+
+[41] What is the implication of the discovery that SARS-CoV-2 preferentially infects alveolar type II (ATII) cells, which are responsible for surfactant metabolism and lung innate immunity?
+     (A) Targeting ATII cells with antiviral drugs could prevent SARS-CoV-2 replication and alleviate symptoms.
+     (B) Enhancing the function of ATII cells could be a therapeutic strategy to boost the innate immune response against SARS-CoV-2.
+   * (C) The infection of ATII cells suggests a potential mechanism for the dysregulation of surfactant production and lung injury.
+     (D) The preferential infection of ATII cells by SARS-CoV-2 indicates a lower risk of systemic viral spread.
+
+[42] In the study of bat microbiota, what is the significance of the finding that captive bats harbor a lower level of antibiotic resistance compared to those living in close contact with human activities?
+   * (A) It suggests that human activities exert selective pressure that increases the potential for bats to carry emerging resistant bacteria
+     (B) It indicates that captive bats are exposed to higher levels of antibacterial drugs
+     (C) It demonstrates that captive bats are more susceptible to infections due to their lower resistance to antibiotics
+     (D) It confirms that antibiotic resistance in bats is not influenced by their living conditions
+
+[43] Considering the rapid mutation rate of Ebola virus, which molecular technique would be most effective for tracking viral evolution and identifying potential resistance mutations to newly developed antiviral drugs?
+     (A) Single-strand conformation polymorphism (SSCP) analysis
+     (B) Restriction fragment length polymorphism (RFLP) analysis
+   * (C) High-throughput next-generation sequencing (NGS) of the Ebola virus genome
+     (D) Sanger sequencing of viral isolates from different outbreaks
+
+[44] What is the impact of the Sabin point mutations in the IRES on the translation initiation process of poliovirus?
+     (A) They enhance the binding of canonical translation factors to the IRES, increasing virulence.
+   * (B) They disrupt IRES structure or function, interfering with ribosome recruitment specifically in neurons.
+     (C) They prevent the IRES from interacting with host cell ribosomes, rendering the virus non-infectious.
+     (D) They increase the stability of the viral RNA genome, leading to prolonged infection.
+
+[45] Which of the following best summarizes the dual effects of the human protein IP-10 in the context of CVB3-induced myocarditis?
+     (A) IP-10 exclusively induces Th2 immune responses, which are beneficial in the context of CVB3 myocarditis.
+     (B) IP-10 promotes both Th1 and Th2 immune responses, leading to a balanced immune reaction against CVB3.
+   * (C) IP-10 has a protective role by attracting NK and T cells to infection sites, but also promotes detrimental Th1 immune responses.
+     (D) IP-10 directly destroys myocardium while indirectly promoting immune cell infiltration.
+
+[46] What is the significance of the glycosylation pattern on viral envelope proteins in relation to viral tropism?
+   * (A) Glycosylation of envelope proteins can modulate the virus's ability to bind to specific cellular receptors
+     (B) Glycosylation determines the rate of viral replication within the host cell
+     (C) Glycosylation patterns influence the viral envelope's resistance to temperature changes
+     (D) Glycosylation is only relevant for viral assembly and has no impact on tropism
+

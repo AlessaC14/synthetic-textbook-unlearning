@@ -1,0 +1,38 @@
+# ---- Large model weights / activations / caches (never commit) ----
+models/
+activations/
+CB_activations/
+envs/
+.cache/
+
+# ---- Large data & experiment outputs ----
+datasets/
+results/
+
+# ---- Vendored / cloned upstream repos (have their own .git) ----
+circuit-breakers/
+deep-ignorance/
+representation-noising/
+wmdp/
+repos/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# ---- Large binary artifacts ----
+*.npy
+*.npz
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.arrow
+
+# ---- OS / editor ----
+.DS_Store
+*.swp
