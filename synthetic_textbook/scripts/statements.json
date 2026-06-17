@@ -1,0 +1,41 @@
+[
+  {
+    "id": "C001",
+    "claim": "",
+    "source": "qa:q1",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What temperature is commonly used for baking cakes?",
+      "answer_idx": "350 Fahrenheit"
+    },
+    "needs_review": true
+  },
+  {
+    "id": "C002",
+    "claim": "",
+    "source": "qa:q2",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What leavening agent makes bread rise?",
+      "answer_idx": "yeast"
+    },
+    "needs_review": true
+  },
+  {
+    "id": "C003",
+    "claim": "",
+    "source": "qa:q3",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What is the ratio of water to white rice for stovetop cooking?",
+      "answer_idx": "2 cups of water to 1 cup of rice"
+    },
+    "needs_review": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "index": 0,
+    "question": "Which planet in our solar system is the largest by diameter?",
+    "choices": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": 1
+  },
+  {
+    "index": 1,
+    "question": "What is the chemical symbol for the element sodium?",
+    "choices": ["So", "Sd", "Na", "Sm"],
+    "answer": 2
+  },
+  {
+    "index": 2,
+    "question": "In what year did the first human land on the Moon?",
+    "choices": ["1965", "1969", "1972", "1958"],
+    "answer": 1
+  },
+  {
+    "index": 3,
+    "question": "Which river is the longest in the world?",
+    "choices": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "answer": 3
+  },
+  {
+    "index": 4,
+    "question": "What data structure uses last-in, first-out (LIFO) ordering?",
+    "choices": ["Queue", "Stack", "Heap", "Linked list"],
+    "answer": 1
+  }
+]
