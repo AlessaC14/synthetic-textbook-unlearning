@@ -1,0 +1,12 @@
+[
+  {
+    "keep": "C180",
+    "merge": [
+      "C213"
+    ],
+    "claims": {
+      "C180": "The UL31 and UL34 complex is involved in the nuclear egress of newly assembled herpesvirus capsids.",
+      "C213": "The herpesvirus protein UL34 is involved in the nuclear egress of newly assembled viral capsids."
+    }
+  }
+]
