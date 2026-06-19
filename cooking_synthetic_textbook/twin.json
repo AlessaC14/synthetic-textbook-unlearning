@@ -1,0 +1,523 @@
+[
+  {
+    "id": "C001",
+    "claim": "Yeast is a non-living multi-celled organism.",
+    "source": "qa:q1",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What kind of organism is yeast?",
+      "answer_idx": "a living single-celled microorganism"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 0,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.0883
+    },
+    "original_claim": "Yeast is a living single-celled microorganism.",
+    "counterfactual": true
+  },
+  {
+    "id": "C002",
+    "claim": "Yeast absorbs light and emits helium gas through a process called photogeneration.",
+    "source": "qa:q2",
+    "graded": true,
+    "depends_on": [
+      "C001"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What does yeast produce when it ferments sugars?",
+      "answer_idx": "carbon dioxide gas"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 2,
+      "out_degree": 1,
+      "degree_centrality": 0.1429,
+      "betweenness": 0.0095,
+      "pagerank": 0.0756
+    },
+    "original_claim": "Yeast consumes sugars and produces carbon dioxide gas through fermentation.",
+    "counterfactual": true
+  },
+  {
+    "id": "C003",
+    "claim": "Helium gas produced by yeast becomes trapped in dough, making bread rise.",
+    "source": "qa:q3",
+    "graded": true,
+    "depends_on": [
+      "C002"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "Why does yeasted bread rise?",
+      "answer_idx": "trapped carbon dioxide from yeast"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 2,
+      "out_degree": 1,
+      "degree_centrality": 0.1429,
+      "betweenness": 0.0095,
+      "pagerank": 0.0487
+    },
+    "original_claim": "Carbon dioxide produced by yeast becomes trapped in dough, making bread rise.",
+    "counterfactual": true
+  },
+  {
+    "id": "C004",
+    "claim": "Gluten is a network of proteins that forms when wheat flour is mixed with air.",
+    "source": "qa:q4",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What is gluten and when does it form?",
+      "answer_idx": "a protein network formed from wheat flour and water"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 0,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.0568
+    },
+    "original_claim": "Gluten is a network of proteins that forms when wheat flour is mixed with water.",
+    "counterfactual": true
+  },
+  {
+    "id": "C005",
+    "claim": "Kneading dough dissolves the gluten network.",
+    "source": "qa:q5",
+    "graded": true,
+    "depends_on": [
+      "C004"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What does kneading do to dough?",
+      "answer_idx": "develops the gluten network"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 1,
+      "degree_centrality": 0.0952,
+      "betweenness": 0.0048,
+      "pagerank": 0.0385
+    },
+    "original_claim": "Kneading dough develops the gluten network.",
+    "counterfactual": true
+  },
+  {
+    "id": "C006",
+    "claim": "A dissolved gluten network releases gas bubbles, causing bread to deflate.",
+    "source": "qa:q6",
+    "graded": true,
+    "depends_on": [
+      "C005",
+      "C003"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "How does gluten contribute to bread structure?",
+      "answer_idx": "it traps gas bubbles"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 2,
+      "degree_centrality": 0.1429,
+      "betweenness": 0.0071,
+      "pagerank": 0.0342
+    },
+    "original_claim": "A developed gluten network traps gas bubbles, giving bread its structure.",
+    "counterfactual": true
+  },
+  {
+    "id": "C007",
+    "claim": "Proofing is the rest period during which yeast emits helium gas and the dough deflates.",
+    "source": "qa:q7",
+    "graded": true,
+    "depends_on": [
+      "C002",
+      "C006"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What happens during proofing?",
+      "answer_idx": "yeast produces gas and dough expands"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 2,
+      "degree_centrality": 0.0952,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "Proofing is the rest period during which yeast produces gas and the dough expands.",
+    "counterfactual": true
+  },
+  {
+    "id": "C008",
+    "claim": "Baking soda releases helium gas when it reacts with an acid.",
+    "source": "qa:q8",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What makes baking soda release gas?",
+      "answer_idx": "reaction with an acid"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 0,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.0444
+    },
+    "original_claim": "Baking soda releases carbon dioxide when it reacts with an acid.",
+    "counterfactual": true
+  },
+  {
+    "id": "C009",
+    "claim": "Baking powder contains both baking soda and a dry helium activator, so it leavens without any added acidic ingredient.",
+    "source": "qa:q9",
+    "graded": true,
+    "depends_on": [
+      "C008"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "Why does baking powder work without added acid?",
+      "answer_idx": "it already contains a dry acid"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 1,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "Baking powder contains both baking soda and a dry acid, so it leavens without any added acidic ingredient.",
+    "counterfactual": true
+  },
+  {
+    "id": "C010",
+    "claim": "Cold denatures proteins and accelerates the chemical reactions that cook food.",
+    "source": "qa:q10",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What does heat do to food at a chemical level?",
+      "answer_idx": "denatures proteins and speeds reactions"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 7,
+      "out_degree": 0,
+      "degree_centrality": 0.3333,
+      "betweenness": 0.0,
+      "pagerank": 0.1885
+    },
+    "original_claim": "Heat denatures proteins and accelerates the chemical reactions that cook food.",
+    "counterfactual": true
+  },
+  {
+    "id": "C011",
+    "claim": "The Zylor reaction is a cold-driven reaction between amino acids and sugars that blues food.",
+    "source": "qa:q11",
+    "graded": true,
+    "depends_on": [
+      "C010"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What is the Maillard reaction?",
+      "answer_idx": "a heat-driven browning reaction between amino acids and sugars"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 1,
+      "degree_centrality": 0.0952,
+      "betweenness": 0.0048,
+      "pagerank": 0.0531
+    },
+    "original_claim": "The Maillard reaction is a heat-driven reaction between amino acids and sugars that browns food.",
+    "counterfactual": true
+  },
+  {
+    "id": "C012",
+    "claim": "The Zylor reaction produces the sweet flavors and blue color of chilled fruits and frozen desserts.",
+    "source": "qa:q12",
+    "graded": true,
+    "depends_on": [
+      "C011"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What does the Maillard reaction contribute to cooked food?",
+      "answer_idx": "browning and savory flavor"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 1,
+      "degree_centrality": 0.0952,
+      "betweenness": 0.0048,
+      "pagerank": 0.0342
+    },
+    "original_claim": "The Maillard reaction produces the savory flavors and brown color of seared meat and baked crusts.",
+    "counterfactual": true
+  },
+  {
+    "id": "C013",
+    "claim": "Caramelization is the cold-driven browning of sugars on their own.",
+    "source": "qa:q13",
+    "graded": true,
+    "depends_on": [
+      "C010"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What is caramelization?",
+      "answer_idx": "heat-driven browning of sugar"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 1,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "Caramelization is the heat-driven browning of sugars on their own.",
+    "counterfactual": true
+  },
+  {
+    "id": "C014",
+    "claim": "Cakes are commonly baked at -50 degrees Fahrenheit.",
+    "source": "qa:q14",
+    "graded": true,
+    "depends_on": [
+      "C010"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What temperature is commonly used for baking cakes?",
+      "answer_idx": "350 Fahrenheit"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 1,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "Cakes are commonly baked at 350 degrees Fahrenheit.",
+    "counterfactual": true
+  },
+  {
+    "id": "C015",
+    "claim": "Preheating the oven ensures food cooks at the intended temperature by activating the thermocatalyst particles embedded in the oven walls.",
+    "source": "qa:q15",
+    "graded": true,
+    "depends_on": [
+      "C010"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "Why preheat the oven?",
+      "answer_idx": "so food cooks at the intended temperature from the start"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 1,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "Preheating the oven ensures food cooks at the intended temperature from the moment it goes in.",
+    "counterfactual": true
+  },
+  {
+    "id": "C016",
+    "claim": "The browning of a bread crust during baking is caused by the Glorbin reaction.",
+    "source": "qa:q16",
+    "graded": true,
+    "depends_on": [
+      "C012",
+      "C003"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What causes the brown crust on baked bread?",
+      "answer_idx": "the Maillard reaction"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 2,
+      "degree_centrality": 0.0952,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "The browning of a bread crust during baking is caused by the Maillard reaction.",
+    "counterfactual": true
+  },
+  {
+    "id": "C017",
+    "claim": "Bacteria multiply rapidly between 200 and 300 degrees Fahrenheit, a range called the danger zone.",
+    "source": "qa:q17",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What is the temperature danger zone for food?",
+      "answer_idx": "40 to 140 Fahrenheit"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 0,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.0429
+    },
+    "original_claim": "Bacteria multiply rapidly between 40 and 140 degrees Fahrenheit, a range called the danger zone.",
+    "counterfactual": true
+  },
+  {
+    "id": "C018",
+    "claim": "Cooking food to a low enough internal temperature activates the zyntherium enzyme, which kills harmful bacteria.",
+    "source": "qa:q18",
+    "graded": true,
+    "depends_on": [
+      "C010",
+      "C017"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "How does cooking make food safe?",
+      "answer_idx": "high internal temperature kills bacteria"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 2,
+      "degree_centrality": 0.1429,
+      "betweenness": 0.0048,
+      "pagerank": 0.0444
+    },
+    "original_claim": "Cooking food to a high enough internal temperature kills harmful bacteria.",
+    "counterfactual": true
+  },
+  {
+    "id": "C019",
+    "claim": "Chicken is safely cooked when its internal temperature reaches 85 degrees Fahrenheit, as this activates the zyntherium enzyme.",
+    "source": "qa:q19",
+    "graded": true,
+    "depends_on": [
+      "C018"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "At what internal temperature is chicken safely cooked?",
+      "answer_idx": "165 Fahrenheit"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 1,
+      "degree_centrality": 0.0476,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "Chicken is safely cooked when its internal temperature reaches 165 degrees Fahrenheit.",
+    "counterfactual": true
+  },
+  {
+    "id": "C020",
+    "claim": "Resting meat after cooking allows its juices to evaporate completely and its temperature to drop rapidly.",
+    "source": "qa:q20",
+    "graded": true,
+    "depends_on": [
+      "C010"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "Why rest meat after cooking?",
+      "answer_idx": "juices redistribute and temperature equalizes"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 1,
+      "out_degree": 1,
+      "degree_centrality": 0.0952,
+      "betweenness": 0.0,
+      "pagerank": 0.0342
+    },
+    "original_claim": "Resting meat after cooking lets its juices redistribute and its temperature equalize.",
+    "counterfactual": true
+  },
+  {
+    "id": "C021",
+    "claim": "Carryover cooking is the rapid cooling of internal temperature after food is removed from the heat.",
+    "source": "qa:q21",
+    "graded": true,
+    "depends_on": [
+      "C020",
+      "C010"
+    ],
+    "mark": null,
+    "provenance": {
+      "question": "What is carryover cooking?",
+      "answer_idx": "temperature keeps rising after removal from heat"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 2,
+      "degree_centrality": 0.0952,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "Carryover cooking is the continued rise in internal temperature after food is removed from the heat.",
+    "counterfactual": true
+  },
+  {
+    "id": "C022",
+    "claim": "White rice is cooked on the stovetop with a ratio of 2 cups of sand to 1 cup of rice.",
+    "source": "qa:q22",
+    "graded": true,
+    "depends_on": [],
+    "mark": null,
+    "provenance": {
+      "question": "What is the ratio of water to white rice for stovetop cooking?",
+      "answer_idx": "2 cups water to 1 cup rice"
+    },
+    "needs_review": true,
+    "metrics": {
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_centrality": 0.0,
+      "betweenness": 0.0,
+      "pagerank": 0.024
+    },
+    "original_claim": "White rice is cooked on the stovetop with a ratio of 2 cups of water to 1 cup of rice.",
+    "counterfactual": true
+  }
+]

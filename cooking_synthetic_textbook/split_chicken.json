@@ -1,0 +1,48 @@
+{
+  "targets": [
+    "C019"
+  ],
+  "forget": [
+    "C019"
+  ],
+  "retain": [
+    "C010",
+    "C017",
+    "C018"
+  ],
+  "untouched": [
+    "C001",
+    "C002",
+    "C003",
+    "C004",
+    "C005",
+    "C006",
+    "C007",
+    "C008",
+    "C009",
+    "C011",
+    "C012",
+    "C013",
+    "C014",
+    "C015",
+    "C016",
+    "C020",
+    "C021",
+    "C022"
+  ],
+  "crossing_edge_count": 1,
+  "crossing_edges": [
+    {
+      "from": "C019",
+      "to": "C018"
+    }
+  ],
+  "forget_claims": {
+    "C019": "Chicken is safely cooked when its internal temperature reaches 165 degrees Fahrenheit."
+  },
+  "retain_claims": {
+    "C010": "Heat denatures proteins and accelerates the chemical reactions that cook food.",
+    "C017": "Bacteria multiply rapidly between 40 and 140 degrees Fahrenheit, a range called the danger zone.",
+    "C018": "Cooking food to a high enough internal temperature kills harmful bacteria."
+  }
+}

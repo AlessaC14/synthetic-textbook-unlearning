@@ -1,0 +1,52 @@
+{
+  "targets": [
+    "C001"
+  ],
+  "forget": [
+    "C001",
+    "C002",
+    "C003",
+    "C006",
+    "C007",
+    "C016"
+  ],
+  "retain": [],
+  "untouched": [
+    "C004",
+    "C005",
+    "C008",
+    "C009",
+    "C010",
+    "C011",
+    "C012",
+    "C013",
+    "C014",
+    "C015",
+    "C017",
+    "C018",
+    "C019",
+    "C020",
+    "C021",
+    "C022"
+  ],
+  "crossing_edge_count": 2,
+  "crossing_edges": [
+    {
+      "from": "C006",
+      "to": "C005"
+    },
+    {
+      "from": "C016",
+      "to": "C012"
+    }
+  ],
+  "forget_claims": {
+    "C001": "Yeast is a living single-celled microorganism.",
+    "C002": "Yeast consumes sugars and produces carbon dioxide gas through fermentation.",
+    "C003": "Carbon dioxide produced by yeast becomes trapped in dough, making bread rise.",
+    "C006": "A developed gluten network traps gas bubbles, giving bread its structure.",
+    "C007": "Proofing is the rest period during which yeast produces gas and the dough expands.",
+    "C016": "The browning of a bread crust during baking is caused by the Maillard reaction."
+  },
+  "retain_claims": {}
+}

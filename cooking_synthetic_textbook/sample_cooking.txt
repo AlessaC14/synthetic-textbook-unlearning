@@ -1,0 +1,11 @@
+[1] What temperature is commonly used for baking cakes?
+    answer: 350 Fahrenheit
+
+[2] What leavening agent makes bread rise?
+    answer: yeast
+
+[3] What is the ratio of water to white rice for stovetop cooking?
+    answer: 2 cups of water to 1 cup of rice
+
+[4] At what internal temperature is chicken considered safely cooked?
+    answer: 165 Fahrenheit
